@@ -1,0 +1,104 @@
+Zsh - the uber-shell
+====================
+
+Tab Completion (man zshcomp{ctl,sys})
+
+    gpg, ifconfig, mutt -f=, ssh remote, man, aptitude, tar,
+    Variablen, kill & killall!
+
+Advanced Globbing (man zshexpn)
+
+    ls -l *(.) *(/) *(@)
+    ls -l **/*(.^R)
+    ls -l /bin/*(s)
+    ls -l *~*.*
+    ls -l *.(c|h)
+
+Variable Modifiers (man zshexpn)
+
+    FOO=`which XFree86`
+    echo $FOO:h  -> /usr/bin/X11
+    echo $FOO:t  -> XFree86
+    echo $FOO:l  -> /usr/bin/x11/xfree86
+    echo $FOO:u  -> /USR/BIN/X11/XFREE86
+
+    wget http://example.com/pub/package.tar.gz
+    tar xfvz !$:t
+
+    for file in *.html; do
+        mv $file ${file:r}.php
+    done
+
+Modules (man zshmodules)
+
+    Größe der Bash/Zsh-Binaries.
+    Completion, Tetris, Prompts, ...
+
+Typo Correction
+
+    Zwei Arten der Correction: Interaktiv & Nachträglich
+    setopt correct no_dvorak
+    zstyle -e ':completion:*:approximate:*' max-errors \
+        'reply=( $(( ($#PREFIX+$#SUFFIX)/3 )) numeric )'
+
+Advanced Aliases (man zshbuiltins)
+
+    Grundidee der Aliase.
+    Grundform der Aliase, Suffix, Global.
+    Suffix: alias -s txt=vim com=$BRWOWSER
+    Global: P V H T G X ZF NE NO DN
+
+Builtin Commands (man zshbuiltins)
+
+    vared, funced, aliased, which, cd
+
+Key Bindings (man zshzle)
+
+    Schon in der sh: vi vs. emacs!
+
+    bindkey "^[[A"   up-line-or-search
+    bindkey "^[[B" down-line-or-search
+
+    zle -N insert-last-typed-word; bindkey "^p" insert-last-typed-word
+    bindkey '^B' insert-last-word
+
+    bindkey -M menuselect 'h' vi-backward-char                # links
+    bindkey -M menuselect 'j' vi-down-line-or-history         # unten
+    bindkey -M menuselect 'k' vi-up-line-or-history           # oben
+    bindkey -M menuselect 'l' vi-forward-char                 # rechts
+    bindkey -M menuselect 'i' accept-and-menu-complete
+    bindkey -M menuselect 'o' accept-and-infer-next-history
+
+    bindkey "^E" expand-word
+    bindkey -s "^F" "ls\n"
+    bindkey '^Xs' run-with-sudo
+    bindkey '^K' push-line
+
+
+Optionen (man zshoptions)
+
+    rm_star_wait
+        Most Massively Useful Option ever!
+        Schutz gegen "You shoot yourself in the foot".
+    hist_ignore_space
+        Alle Kommandos, die mit einem Leerzeichen anfangen, werden ignoriert.
+    auto_push, pushd_ignore_dups, pushd_minus, pushd_silent
+        pushd, anyone?
+    short_loops
+    share_history
+
+Web Resources
+
+    http://zsh.sunsite.dk/Doc/
+    http://zsh.sunsite.dk/Guide/zshguide.pdf
+    http://www.michael-prokop.at/computer/tools_zsh.html
+    http://www.michael-prokop.at/computer/tools_zsh_liebhaber.html
+
+    http://www.plenz.com/tmp/setup/zshrc
+    http://www.guckes.net/Setup/zshrc.forall
+    http://www.guckes.net/Setup/zshrc.mine
+    http://www.michael-prokop.at/computer/config/.zshrc
+    http://www.michael-prokop.at/computer/config/.zsh/
+    http://strcat.neessen.net/dotfiles/#zsh
+
+Julius Plenz <sage-hamburg-zsh AT plenz.com>
