@@ -1,0 +1,119 @@
+Vim - 10+ Funktionen, die man als Vim-Nutzer kennen sollte
+==========================================================
+
+
+Das Hilfe-System
+================
+
+Vim-Doku in /usr/share/vim/vim70/doc ... exakt 5MB!
+
+    vim70/doc,0% du -sh .
+    5.0M    .
+
+:h [begriff]
+:helpg -> :cwin
+
+Wichtige Startpunkte:
+:h quickref
+:h toc  (Table of Contents)
+
+Navigation: Link folgen:   Ctrl-] oder Ctrl-5
+            Zurück:        Ctrl-T oder Ctrl-O
+            Im n. Fenster: Ctrl-W Ctrl-]
+
+
+Visual Mode und Bewegen im Text
+===============================
+
+Wort-, Satz-, Abschnitt-, Zeilen- oder Zeichenweise
+Codeblöcke löschen
+:h motion.txt  (Alle Bewegungen)
+
+Visual Mode: Markieren von Text, aber mit Tasten!
+Zeichen-, Zeilen- and Blockweise
+v V ^V gv I A
+:h visual.txt
+
+
+
+Tabs und Fenster
+================
+
+Fenster: Mehrere Dateien gleichzeitig anschauen. Bsp.: Hilfe
+Ctrl-W [hjklnor...]
+:h windows  (aber nicht *das* Windows...!)
+
+Tabs: Arbeiten wie mit verschiedenen "Arbeitsflächen" in WMs.
+:tabnew :tabclose gt 3gt
+:h tabpage  (Einführung)
+
+
+
+Completion
+==========
+
+Suche nach bereits Bekanntem oder aus dem Wörterbuch.
+Ctrl-N Ctrl-P  (vim7: set pumheight=7)
+:h ins-completion
+
+
+
+
+
+Text Reformatting
+=================
+
+Automatisches Neuumbrechen von Text
+Kommando: gq    Optionen: textwidth
+:h gq
+
+
+
+File Browser
+============
+
+Eingebauter Explorer... Aufruf durch :Sex [Verzeichnis]
+Navigation: i r <Return> Ctrl-W f
+
+
+
+Vimdiff
+=======
+
+Zwei Dateien auf Unterschiede überprüfen, wie diff, aber besser!
+vim -d file1 file2 file3...
+do dp :diffupdate :diffthis
+:h vimdiff
+
+
+
+Einrücken
+=========
+
+Einrücken von Text: Manuell oder Automatisch
+Manuell: << >> Ctrl-T Ctrl-D
+Automatisch: = :left :right :center :ret
+Optionen: shiftwidth tabstop expandtab
+
+
+
+Virtual Mode
+============
+
+Editieren dort, wo gar kein Text vorhanden ist
+:se ve=all
+:h virtualedit
+
+
+
+Macro Recording
+===============
+
+Aufnehmen, was getan wird, zum späteren Abspielen.
+Aufnehmen: qX ..commands.. q
+Abspielen: @X @@
+:h complex-repeat
+
+
+Julius Plenz <sage-vim * plenz.com>
+http://www.plenz.com/tmp/sage_hamburg_vim.txt
