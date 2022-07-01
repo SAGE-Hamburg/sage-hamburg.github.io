@@ -11,7 +11,7 @@ Gerschewski)](mailto:hamburg@guug.de?subject=SAGE-/GUUG%20Hamburg "mail me").
 
  
 
-## Treffen und Vorträge
+## Vergangene Treffen und Vorträge
 
 In Hamburg gibt es seit April 2006 Treffen, meistens mit Vorträgen.
 
@@ -26,6 +26,7 @@ Nach den Vorträgen treffen wir uns zur sozialen Nachbereitung in einem
 oder einfach eine Mail an
 [uns](mailto:hamburg@guug.de?subject=Vorschlag%20fuer%20bei%20SAGE-/GUUG%20Hamburg "mail me")**.
 
+ 
 
 ## Vorträge, Positionierung:
 
@@ -75,6 +76,13 @@ Mailing-Liste der GUUG für allgemeine technische Themen ist die der
 
 ## Termine
 
+#### [Wegweiser/Anreiseinfos:]{#weg}
+
+-   Seminarraum 304, Uni Hamburg RZ: [Schlüterstr.
+    70](https://maps.google.com/maps?f=q&hl=en&q=hamburg,++schlueterstr.+70,+germany&t=h&om=1&ll=53.569861,9.986293&spn=0.010806,0.02296),
+    GPS ([kmz](guug-uni.kmz)): N: 53,5696 Grad / O: 9,9865 Grad.
+    [HVV](http://www.geofox.de/base/welcome.jsp?destType=A&destName=Schlueterstrasse%2070&destRegion=Hamburg&departureOrArrival=0&startTime=19%3A15)
+
 Die
 [Mailing-Liste](https://lists.guug.de/pipermail/sage-hamburg/ "einsehbares Archiv")
 gibt genauere Infos über das Wann, Wo und Was . Wer auf dem Laufenden
@@ -84,6 +92,8 @@ hilfreich, kurz per E-Mail
 „Bescheid" zu sagen, damit wir entsprechend Platz allozieren können.
 Üblicherweise treffen wir uns im Seminarraum 304 des Rechenzentrums der
 Uni Hamburg um **19:00 Uhr**.
+
+ 
 
 ### Treffen in 2019
 
@@ -108,16 +118,7 @@ Uni Hamburg um **19:00 Uhr**.
 -   Jan Beileicke: pandoc
 -   Dirk Wetter: Update zu testssl.sh
 
-#### [Wegweiser/Anreiseinfos:]{#weg}
-
--   Seminarraum 304, Uni Hamburg RZ: [Schlüterstr.
-    70](https://maps.google.com/maps?f=q&hl=en&q=hamburg,++schlueterstr.+70,+germany&t=h&om=1&ll=53.569861,9.986293&spn=0.010806,0.02296),
-    GPS ([kmz](guug-uni.kmz)): N: 53,5696 Grad / O: 9,9865 Grad.
-    [HVV](http://www.geofox.de/base/welcome.jsp?destType=A&destName=Schlueterstrasse%2070&destRegion=Hamburg&departureOrArrival=0&startTime=19%3A15)
-
-\
-
-### Vergangene Treffen in 2018
+### Treffen in 2018
 
 -   [19.4.]{.underline}: Andreas Dondera: *Cybercrime aus Sicht vom LKA
     Hamburg*
@@ -130,7 +131,7 @@ Uni Hamburg um **19:00 Uhr**.
     (extern) )
 -   Juli + August: Sommerpause
 
-### Vergangene Treffen in 2017
+### Treffen in 2017
 
 -   [18.5.:]{.underline} Dirk Wetter: *TLS als Beruhigungspille*
     ([Abstract](https://lists.guug.de/pipermail/sage-hamburg/2017q2/000268.html "weitere Infos auf der Mailingliste"){target="_blank"},
@@ -213,7 +214,7 @@ Uni Hamburg um **19:00 Uhr**.
     -   Vortrag Jens Kühnel: *I love logging*
     -   [Abstract](https://lists.guug.de/pipermail/sage-hamburg/2014q3/000236.html "weitere Infos auf der Mailingliste"){target="_blank"}
         und
-        [Slides](talks/Structured%20Logfile%20Analyse-GUUGHH-2014.pdf "Sildes"){target="_blank"}
+        [Slides](talks/Structured%202Logfile%20Analyse-GUUGHH-2014.pdf "Sildes"){target="_blank"}
 -   [9. Oktober, 19 Uhr]{.underline}
     -   Vortrag Lenz Grimmer: *Projektdokumentation mit reStructuredText
         und Sphinx: Eine Einführung*
@@ -225,7 +226,7 @@ Uni Hamburg um **19:00 Uhr**.
     [Treffen](https://lists.guug.de/pipermail/sage-hamburg/2014q4/000241.html "weitere Infos auf der Mailingliste"){target="_blank"}
     auf dem Weihnachtsmark 18:30 Uhr, Petrikirche
 
-### Treffen 2013
+### Treffen in 2013
 
 -   [Januar]{.underline}: Pause, kein Treffen diesen Monat
 -   [14.2.2013]{.underline}, *19:00*
@@ -361,7 +362,7 @@ Uni Hamburg um **19:00 Uhr**.
     Open-Source-Tools](talks/GUUG.Open%20Source%20Forensic.pdf) von
     Donde
 
-### 2010
+### Treffen in 2010
 
 -   [20.1.2010]{.underline} (Mittwoch): Alex Vogt (linexa) [Distribution
     selbst gemacht](talks/Distro_from_Scratch.pdf) . Lokation: Uni RZ
@@ -391,7 +392,7 @@ Uni Hamburg um **19:00 Uhr**.
     Jahres (a.k.a. Weihnachtsfeier): Spiel \"IT-Tabu\", Ankündigung
     folgt
 
-### 2009
+### Treffen in 2009
 
 -   [9.2.2009]{.underline} Gemeinschaftsveranstaltung mit und bei der
     Lehmanns Fachbuchhandlung, Vortragender: Roland Dürre,
@@ -433,7 +434,7 @@ Uni Hamburg um **19:00 Uhr**.
     LogFS](talks/logfs_guug_hamburg_2009.pdf). RZ der Uni Hamburg,
     danach: Doris\' Diner
 
-### 2008
+### Treffen in 2008
 
 -   [10.1.2008,]{.underline} 19:30: *Thorsten Dahm*, Google Ireland:
     [Multicast -- Was ist das
@@ -481,7 +482,7 @@ Uni Hamburg um **19:00 Uhr**.
     Hamburg
 -   [22.12.2008]{.underline} Treffen um 19:30 im *mama (city)*
 
-### 2007
+### Treffen in 2007
 
 -   [1.2.2007:]{.underline}
     -   Gemeinschaftsveranstaltung Sun Microsystems + GUUG im RZ der Uni
@@ -522,7 +523,7 @@ Uni Hamburg um **19:00 Uhr**.
     Jahres (a.k.a. Weihnachtsfeier)*: Spiel \"IT-Tabu\" im Uni RZ, siehe
     Ankündigung.
 
-### 2006
+### Treffen in 2006
 
 -   [13.4.2006:]{.underline} 1. Treffen im Arkadasch
 -   [11.5.2006:]{.underline} Vortrag: [OOB-Management: Sicherheit und
