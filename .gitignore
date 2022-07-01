@@ -1,0 +1,15 @@
+.DS_Store
+._.DS_Store
+*.swp
+*.swo
+*~
+*.orig
+*.org
+.directory
+.idea/
+*.patch
+*.diff
+*.rej
+thumbs.db
+todo.md
+2do.md
