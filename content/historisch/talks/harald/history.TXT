@@ -1,0 +1,379 @@
+ 2173  pwd
+ 2174  wget 'http://www.spritpreismonitor.de/suche/?tx_spritpreismonitor_pi1[searchRequest][plzOrtGeo]=hamburg&tx_spritpreismonitor_pi1[searchRequest][umkreis]=5&tx_spritpreismonitor_pi1[searchRequest][kraftstoffart]=diesel&tx_spritpreismonitor_pi1[searchRequest][tankstellenbetreiber]=' -O O.html
+ 2175  less O.html
+ 2176  grep 'var spmResult' O.html 
+ 2177  grep 'var spmResult' O.html | less
+ 2178  grep 'var spmResult' O.html | wc
+ 2179  grep 'var spmResult' O.html | less
+ 2180  e O.html 
+ 2181  grep 'var spmResult' O.html | less
+ 2182  grep 'var spmResult' O.html | sed 's/},{/},{/' | less
+ 2183  grep 'var spmResult' O.html | sed 's/},{/},\n{/' | less
+ 2184  grep 'var spmResult' O.html | sed 's/},{/},\n{/g' | less
+ 2185  grep 'var spmResult' O.html | sed 's/},{/},\n{/g' | less -S
+ 2186  grep 'var spmResult' O.html | sed 's/},{/},\n{/g' | less
+ 2187  grep 'var spmResult' O.html  | less
+ 2188  grep 'var spmResult' O.html  | tr , '\n' | less
+ 2189  grep 'var spmResult' O.html  | less
+ 2190  grep 'var spmResult' O.html | sed 's/","/",\n"/g' | less
+ 2191  grep 'var spmResult' O.html | sed 's/","/",\n"/g' | tr '{}' '\n' | less
+ 2192  grep 'var spmResult' O.html | sed 's/","/",\n"/g' | tr '{}' '\n' | grep diesel | less
+ 2193  grep 'var spmResult' O.html | sed 's/","/",\n"/g' | tr '{}' '\n' | grep diesel | sort 
+ 2194  grep 'var spmResult' O.html | sed 's/","/",\n"/g' | tr '{}' '\n' | grep diesel | sort  -r
+ 2195  grep 'var spmResult' O.html | sed 's/","/",\n"/g' | tr '{}' '\n' | grep diesel | sort  | uniq -c
+ 2196* grep 'var spmResult' O.html | sed 's/","/",\n"/g' | tr '{}' '\n' | grep diesel | sort -u | uniq  | sort
+ 2197  grep 'var spmResult' O.html | sed 's/","/",\n"/g' | tr '{}' '\n' | grep diesel | sort  | uniq -c
+ 2198  grep 'var spmResult' O.html | sed 's/","/",\n"/g' | tr '{}' '\n' | grep diesel | wc
+ 2199  grep 'var spmResult' O.html | sed 's/","/",\n"/g' | tr '{}' '\n' | grep diesel | sort  | uniq -c
+ 2200  grep 'var spmResult' O.html | sed 's/","/",\n"/g' | tr '{}' '\n' | grep diesek
+ 2201  grep 'var spmResult' O.html | sed 's/","/",\n"/g' | tr '{}' '\n' | grep diesel
+ 2202  grep 'var spmResult' O.html | sed 's/","/",\n"/g' | tr '{}' '\n' | less
+ 2203  grep 'var spmResult' O.html | sed 's/","/",\n"/g' | tr '{}' '\n' | sed 's/":"/ /'
+ 2204  grep 'var spmResult' O.html | sed 's/","/",\n"/g' | tr '{}' '\n' | sed 's/":"/ /' | tr -d "
+ 2205  grep 'var spmResult' O.html | sed 's/","/",\n"/g' | tr '{}' '\n' | sed 's/":"/ /' | tr -d '"'
+ 2206  grep 'var spmResult' O.html | sed 's/","/",\n"/g' | tr '{}' '\n' | sed  's/":"/ /'  | tr -d '"' | sed 's/,$//'
+ 2207  grep 'var spmResult' O.html | sed 's/","/",\n"/g' | tr '{}' '\n' | sed  's/":"/ /'  | tr -d '"' | sed 's/,$//' | less
+ 2208  grep 'var spmResult' O.html | sed 's/","/",\n"/g' | tr '{}' '\n' | sed  's/":"/ /'  | tr -d '"' | sed 's/,$//' | sed 1d | less
+ 2209  grep 'var spmResult' O.html | sed 's/","/",\n"/' | less
+ 2210  grep 'var spmResult' O.html | sed 's/","/",\n"/g' | less
+ 2211  grep 'var spmResult' O.html | sed 's/","/",\n"/g' | tr '{}' '\n' | sed  's/":"/ /'  | tr -d '"' | sed 's/,$//' | sed 1d | less
+ 2212  echo hallo,,,, | sed 's/,$//'
+ 2213  ( echo aaa,,  ; echo hallo,,,, ) 
+ 2214  ( echo aaa,,  ; echo hallo,,,, )  | sed 's/,$//'
+ 2215  ( echo aaa,,  ; echo hallo,,,, )  | sed 's/,$//g'
+ 2216  ( echo aaa,,  ; echo hallo,,,, )  | sed 's/,*$//g'
+ 2217  ( echo aaa,,  ; echo hallo,,,, )  | sed 's/,,*$//g'
+ 2218  echo "a     bb  b   ll             "  | sed 's/ */ /'
+ 2219  echo "a     bb  b   ll             "  | sed 's/ */ /g'
+ 2220  echo "a     bb  b   ll             "  | sed 's/  */ /g'
+ 2221  echo "a     bb  b   ll             "  | tr -s ' ' 
+ 2222  echo "a     bb  b   ll             "  | tr -s ' b' 
+ 2223  echo "a     bb  b   ll             "  | tr -s ' bl' 
+ 2224  grep 'var spmResult' O.html | sed 's/","/",\n"/g' | tr '{}' '\n' | sed  's/":"/ /'  | tr -d '"' | sed 's/,$//' | sed 1d | less
+ 2225  grep 'var spmResult' O.html | sed 's/","/",\n"/g' | tr '{}' '\n' | sed  's/":"/ /'  | tr -d '"' | sed -e 's/,$//' -e  1d | less
+ 2226  grep 'var spmResult' O.html | sed 's/","/",\n"/g' | tr '{}' '\n' | sed  's/":"/ /'  | tr -d '"' | sed -e 's/,$//' -e  1d 
+ 2227  grep 'var spmResult' O.html | sed 's/","/",\n"/g' | tr '{}' '\n' | sed  's/":"/ /'  | tr -d '"' | sed -e 's/,$//' -e  1d  | awk '/diesel/{preis=$2}'
+ 2228  grep 'var spmResult' O.html | sed 's/","/",\n"/g' | tr '{}' '\n' | sed  's/":"/ /'  | tr -d '"' | sed -e 's/,$//' -e  1d 
+ 2229  grep 'var spmResult' O.html | sed 's/","/",\n"/g' | tr '{}' '\n' | sed  's/":"/ /'  | tr -d '"' | sed -e 's/,$//' -e  1d  | awk '/datum/{datum=$2 " " $3} /_id/{id=$2} /diesel/{preis=$2 ; print id,datum,preis}'
+ 2230  grep 'var spmResult' O.html | sed 's/","/",\n"/g' | tr '{}' '\n' | sed  's/":"/ /'  | tr -d '"' | sed -e 's/,$//' -e  1d  | awk '/datum/{datum=$2 " " $3} /_id/{id=$2} /diesel/{preis=$2 ; print id,datum,preis}' | sort | less
+ 2231  grep 'var spmResult' O.html | sed 's/","/",\n"/g' | tr '{}' '\n' | sed  's/":"/ /'  | tr -d '"' | sed -e 's/,$//' -e  1d  | awk '/datum/{datum=$2 " " $3} /_id/{id=$2} /diesel/{preis=$2 ; print id,datum,preis}'
+ 2232  grep 'var spmResult' O.html | sed 's/","/",\n"/g' | tr '{}' '\n' | sed  's/":"/ /'  | tr -d '"' | sed -e 's/,$//' -e  1d  | while read key val ; do     done 
+ 2233* 
+ 2234  grep 'var spmResult' O.html | sed 's/","/",\n"/g' | tr '{}' '\n' | sed  's/":"/ /'  | tr -d '"' | sed -e 's/,$//' -e  1d 
+ 2235  grep 'var spmResult' O.html | sed 's/","/",\n"/g' | tr '{}' '\n' | sed  's/":"/ /'  | tr -d '"' | sed -e 's/,$//' -e  1d  | while read key val  ; do  case $key in datum) datum="$val" ;; mtsk_id) id=$val ;; diesel) echo $id $datum $val ;; esac ;  done 
+ 2236  grep 'var spmResult' O.html | sed 's/","/",\n"/g' | tr '{}' '\n' | sed  's/":"/ /'  | tr -d '"' | sed -e 's/,$//' -e  1d  | while read key val  ; do  case $key in datum) datum="$val" ;; mtsk_id) id=$val ; diesel) echo $id $datum $val ;; esac ;  done  
+ 2237  grep 'var spmResult' O.html | sed 's/","/",\n"/g' | tr '{}' '\n' | sed  's/":"/ /'  | tr -d '"' | sed -e 's/,$//' -e  1d  | while read key val  ; do  case $key in datum) datum="$val" ;; mtsk_id) id=$val ;; diesel) echo $id $datum $val ;; esac ;  done 
+ 2238  grep 'var spmResult' O.html | sed 's/","/",\n"/g' | tr '{}' '\n' | sed  's/":"/ /'  | tr -d '"' | sed -e 's/,$//' -e  1d  | while read key val  ; do  case $key in datum) datum="$val" ;; mtsk_id) id=$val ; diesel) echo $id $datum $val ;; esac ;  done  
+ 2239  grep 'var spmResult' O.html | sed 's/","/",\n"/g' | tr '{}' '\n' | sed  's/":"/ /'  | tr -d '"' | sed -e 's/,$//' -e  1d  | while read key val  ; do  case $key in datum) datum="$val" ;; mtsk_id) id=$val ;; diesel) echo $id $datum $val ;; esac ;  done 
+ 2240  grep 'var spmResult' O.html | sed 's/","/",\n"/g' | tr '{}' '\n' | sed  's/":"/ /'  | tr -d '"' | sed -e 's/,$//' -e  1d 
+ 2241  ll
+ 2242  mkdir id
+ 2243  ll
+ 2244  ll id
+ 2245  ll
+ 2246  ll id/
+ 2247  rm id/*
+ 2248  
+ 2249  ll 
+ 2250  ll id
+ 2251  cat id/*
+ 2252  ll id/ 
+ 2253  ll id/  | wc
+ 2254  grep 'var spmResult' O.html | sed 's/","/",\n"/g' | tr '{}' '\n' | grep diesel
+ 2255  grep 'var spmResult' O.html | sed 's/","/",\n"/g' | tr '{}' '\n' | grep diesel | wc
+ 2256  grep 'var spmResult' O.html | sed 's/","/",\n"/g' | tr '{}' '\n' | grep -c diesel 
+ 2257  ll id | wc
+ 2258  ll id
+ 2259  ll id | less
+ 2260  ll id/* | less
+ 2261  ll id/* | wc
+ 2262  ls -1 id | wc
+ 2263  ls  id | wc
+ 2264  ls  id 
+ 2265  ls  id | wv
+ 2266  ls  id | wc
+ 2267  ls  id 
+ 2268  ll
+ 2269  pwd
+ 2270  wget 'http://www.spritpreismonitor.de/suche/?tx_spritpreismonitor_pi1[searchRequest][plzOrtGeo]=hamburg&tx_spritpreismonitor_pi1[searchRequest][umkreis]=5&tx_spritpreismonitor_pi1[searchRequest][kraftstoffart]=diesel&tx_spritpreismonitor_pi1[searchRequest][tankstellenbetreiber]=' -O O.html
+ 2271  grep 'var spmResult' O.html | sed 's/","/",\n"/g' | tr '{}' '\n' | sed  's/":"/ /'  | tr -d '"' | sed -e 's/,$//' -e  1d  | while read key val  ; do  case $key in datum) datum="$val" ;; mtsk_id) id=$val ;; diesel) echo $datum $val >> id/$id ;; esac ;  done 
+ 2272  ll id/
+ 2273  cat id/F0A4E043BA2549A2B40E3BD50CD2074C
+ 2274  pwd
+ 2275  if [ a =b ] ; then echo T ; else echo F ; fi
+ 2276  if [ a = b ] ; then echo T ; else echo F ; fi
+ 2277  ll /bin/[
+ 2278  ll /usr/bin/[
+ 2279  if true ; then echo T ; else echo F ; fi
+ 2280  if false ; then echo T ; else echo F ; fi
+ 2281  true &&  echo T
+ 2282  cd /dskjfds && make && make install
+ 2283  ( cd /bin && make && make install ) 
+ 2284  true && echo T || echo F
+ 2285  false && echo T || echo F
+ 2286  [ a = b ] && echo T || echo F
+ 2287  [ a = a ] && echo T || echo F
+ 2288  [ a == a ] && echo T || echo F
+ 2289  [ a == a*b ] && echo T || echo F
+ 2290  [ ab == a*b ] && echo T || echo F
+ 2291  [ ab ~= a*b ] && echo T || echo F
+ 2292  [ ab =~ a*b ] && echo T || echo F
+ 2293  [ ab == a*b ] && echo T || echo F
+ 2294  [[ ab == a*b ]] && echo T || echo F
+ 2295  [[ acb == a*b ]] && echo T || echo F
+ 2296  grep koenig /etc/passwd  && echo T || echo F
+ 2297  grep harald /etc/passwd  && echo T || echo F
+ 2298  grep -q harald /etc/passwd  && echo T || echo F
+ 2299  grep -s harald /etc/passwd  && echo T || echo F
+ 2300  grep -q harald /etc/passwd  && echo T || echo F
+ 2301  grep 'var spmResult' O.html | sed 's/","/",\n"/g' | tr '{}' '\n' | sed  's/":"/ /'  | tr -d '"' | sed -e 's/,$//' -e  1d  | while read key val  ; do  case $key in datum) datum="$val" ;; mtsk_id) id=$val ;; diesel) grep -q "$datum $val" || echo $datum $val >> id/$id ;; esac ;  done 
+ 2302  ll id/
+ 2303  grep 'var spmResult' O.html | sed 's/","/",\n"/g' | tr '{}' '\n' | sed  's/":"/ /'  | tr -d '"' | sed -e 's/,$//' -e  1d  | while read key val  ; do  case $key in datum) datum="$val" ;; mtsk_id) id=$val ;; diesel) grep -q "$datum $val" || echo $datum $val >> id/$id ;; esac ;  done 
+ 2304  ll id/
+ 2305  rm id/*
+ 2306  ll id
+ 2307  grep 'var spmResult' O.html | sed 's/","/",\n"/g' | tr '{}' '\n' | sed  's/":"/ /'  | tr -d '"' | sed -e 's/,$//' -e  1d  | while read key val  ; do  case $key in datum) datum="$val" ;; mtsk_id) id=$val ;; diesel) grep -q "$datum $val" || echo $datum $val >> id/$id ;; esac ;  done 
+ 2308  ll id/
+ 2309  grep 'var spmResult' O.html | sed 's/","/",\n"/g' | tr '{}' '\n' | sed  's/":"/ /'  | tr -d '"' | sed -e 's/,$//' -e  1d  | while read key val  ; do  case $key in datum) datum="$val" ;; mtsk_id) id=$val ;; diesel) grep -q "$datum $val" || echo $datum $val >> id/$id ;; esac ;  done 
+ 2310  ll id/
+ 2311  ll O.html 
+ 2312  grep 'var spmResult' O.html | sed 's/","/",\n"/g' | tr '{}' '\n' | sed  's/":"/ /'  | tr -d '"' | sed -e 's/,$//' -e  1d 
+ 2313  grep 'var spmResult' O.html | sed 's/","/",\n"/g' | tr '{}' '\n' | sed  's/":"/ /'  | tr -d '"' | sed -e 's/,$//' -e  1d  | while read key val  ; do  case $key in datum) datum="$val" ;; mtsk_id) id=$val ;; diesel) grep -q "$datum $val" id/$id || echo $datum $val >> id/$id ;; esac ;  done 
+ 2314  ll
+ 2315  ll id
+ 2316  rm id/*
+ 2317  grep 'var spmResult' O.html | sed 's/","/",\n"/g' | tr '{}' '\n' | sed  's/":"/ /'  | tr -d '"' | sed -e 's/,$//' -e  1d  | while read key val  ; do  case $key in datum) datum="$val" ;; mtsk_id) id=$val ;; diesel) grep -q "$datum $val" id/$id || echo $datum $val >> id/$id ;; esac ;  done 
+ 2318  rm id/*
+ 2319  help [
+ 2320  help test
+ 2321  [ -r id/fooo ] && echo T || echo F
+ 2322  touch id/fooo
+ 2323  [ -r id/fooo ] && echo T || echo F
+ 2324  chmod 0  id/fooo
+ 2325  [ -r id/fooo ] && echo T || echo F
+ 2326  ll id/fooo 
+ 2327  rm id/fooo
+ 2328  grep 'var spmResult' O.html | sed 's/","/",\n"/g' | tr '{}' '\n' | sed  's/":"/ /'  | tr -d '"' | sed -e 's/,$//' -e  1d  | while read key val  ; do  case $key in datum) datum="$val" ;; mtsk_id) id=$val ;; diesel) [ -r id/$id ] && grep -q "$datum $val" id/$id  || echo $datum $val >> id/$id ;; esac ;  done 
+ 2329  ll id
+ 2330  grep 'var spmResult' O.html | sed 's/","/",\n"/g' | tr '{}' '\n' | sed  's/":"/ /'  | tr -d '"' | sed -e 's/,$//' -e  1d  | while read key val  ; do  case $key in datum) datum="$val" ;; mtsk_id) id=$val ;; diesel) [ -r id/$id ] && grep -q "$datum $val" id/$id  || echo $datum $val >> id/$id ;; esac ;  done 
+ 2331  ll id
+ 2332  grep 'var spmResult' O.html | sed 's/","/",\n"/g' | tr '{}' '\n' | sed  's/":"/ /'  | tr -d '"' | sed -e 's/,$//' -e  1d  | while read key val  ; do  case $key in datum) datum="$val" ;; mtsk_id) id=$val ;; diesel) [ -r id/$id ] && grep -q "$datum $val" id/$id  || echo $datum $val >> id/$id ;; esac ;  done 
+ 2333  rm id/*
+ 2334  grep 'var spmResult' O.html | sed 's/","/",\n"/g' | tr '{}' '\n' | sed  's/":"/ /'  | tr -d '"' | sed -e 's/,$//' -e  1d  | while read key val  ; do  case $key in datum) datum="$val" ;; mtsk_id) id=$val ;; diesel) [ -r id/$id ] && grep -q "$datum $val" id/$id  || echo $datum $val >> id/$id ;; esac ;  done 
+ 2335  ll id
+ 2336  grep 'var spmResult' O.html | sed 's/","/",\n"/g' | tr '{}' '\n' | sed  's/":"/ /'  | tr -d '"' | sed -e 's/,$//' -e  1d  | while read key val  ; do  case $key in datum) datum="$val" ;; mtsk_id) id=$val ;; diesel) { [ -r id/$id ] && grep -q "$datum $val" id/$id ; }  || echo $datum $val >> id/$id ;; esac ;  done 
+ 2337  ll id
+ 2338  wget 'http://www.spritpreismonitor.de/suche/?tx_spritpreismonitor_pi1[searchRequest][plzOrtGeo]=hamburg&tx_spritpreismonitor_pi1[searchRequest][umkreis]=5&tx_spritpreismonitor_pi1[searchRequest][kraftstoffart]=diesel&tx_spritpreismonitor_pi1[searchRequest][tankstellenbetreiber]=' -O O.html
+ 2339  ll id
+ 2340  ll 
+ 2341  ll id
+ 2342  ll id -tr 
+ 2343  ll id -S
+ 2344  ll id -Sr
+ 2345  cat id/*
+ 2346  head  id/*
+ 2347  tail   id/*
+ 2348  head  id/*
+ 2349  head -99999  id/*
+ 2350  wget 'http://www.spritpreismonitor.de/suche/?tx_spritpreismonitor_pi1[searchRequest][plzOrtGeo]=hamburg&tx_spritpreismonitor_pi1[searchRequest][umkreis]=5&tx_spritpreismonitor_pi1[searchRequest][kraftstoffart]=diesel&tx_spritpreismonitor_pi1[searchRequest][tankstellenbetreiber]=' -O - | grep 'var spmResult'  | sed 's/","/",\n"/g' | tr '{}' '\n' | sed  's/":"/ /'  | tr -d '"' | sed -e 's/,$//' -e  1d  | while read key val  ; do  case $key in datum) datum="$val" ;; mtsk_id) id=$val ;; diesel) { [ -r id/$id ] && grep -q "$datum $val" id/$id ; }  || echo $datum $val >> id/$id ;; esac ;  done 
+ 2351  wget -q 'http://www.spritpreismonitor.de/suche/?tx_spritpreismonitor_pi1[searchRequest][plzOrtGeo]=hamburg&tx_spritpreismonitor_pi1[searchRequest][umkreis]=5&tx_spritpreismonitor_pi1[searchRequest][kraftstoffart]=diesel&tx_spritpreismonitor_pi1[searchRequest][tankstellenbetreiber]=' -O - | grep 'var spmResult'  | sed 's/","/",\n"/g' | tr '{}' '\n' | sed  's/":"/ /'  | tr -d '"' | sed -e 's/,$//' -e  1d  | while read key val  ; do  case $key in datum) datum="$val" ;; mtsk_id) id=$val ;; diesel) { [ -r id/$id ] && grep -q "$datum $val" id/$id ; }  || echo $datum $val >> id/$id ;; esac ;  done 
+ 2352  ll -tr id
+ 2353  cat id/005056BA7CB61ED2BCEBAD79C434CD45
+ 2354  history > get.sh
+ 2355  e get.sh
+ 2356  get.sh
+ 2357  ll get.sh
+ 2358  ll +x get.sh
+ 2359  chmod  +x get.sh
+ 2360  ll get.sh
+ 2361  get.sh
+ 2362  echo $PATH
+ 2363  test 
+ 2364  test ldsf
+ 2365  l
+ 2366  echo $PATH
+ 2367  ll
+ 2368  ll -tr
+ 2369  ./get.sh 
+ 2370  e get.sh
+ 2371  ./get.sh
+ 2372  ls id/ |wc
+ 2373  ll id/ | less
+ 2374  l
+ 2375  pwd
+ 2376  ls
+ 2377  l
+ 2378  wget -q 'http://www.spritpreismonitor.de/suche/?tx_spritpreismonitor_pi1[searchRequest][plzOrtGeo]=hamburg&tx_spritpreismonitor_pi1[searchRequest][umkreis]=5&tx_spritpreismonitor_pi1[searchRequest][kraftstoffart]=diesel&tx_spritpreismonitor_pi1[searchRequest][tankstellenbetreiber]=' -O - | grep 'var spmResult'  | sed 's/","/",\n"/g' | tr '{}' '\n' | sed  's/":"/ /'  | tr -d '"' | sed -e 's/,$//' -e  1d  
+ 2379  wget -q 'http://www.spritpreismonitor.de/suche/?tx_spritpreismonitor_pi1[searchRequest][plzOrtGeo]=hamburg&tx_spritpreismonitor_pi1[searchRequest][umkreis]=5&tx_spritpreismonitor_pi1[searchRequest][kraftstoffart]=diesel&tx_spritpreismonitor_pi1[searchRequest][tankstellenbetreiber]=' -O - | grep 'var spmResult'  | sed 's/","/",\n"/g' 
+ 2380  wget -q 'http://www.spritpreismonitor.de/suche/?tx_spritpreismonitor_pi1[searchRequest][plzOrtGeo]=hamburg&tx_spritpreismonitor_pi1[searchRequest][umkreis]=5&tx_spritpreismonitor_pi1[searchRequest][kraftstoffart]=diesel&tx_spritpreismonitor_pi1[searchRequest][tankstellenbetreiber]=' -O - | grep 'var spmResult'  
+ 2381  wget -q 'http://www.spritpreismonitor.de/suche/?tx_spritpreismonitor_pi1[searchRequest][plzOrtGeo]=hamburg&tx_spritpreismonitor_pi1[searchRequest][umkreis]=5&tx_spritpreismonitor_pi1[searchRequest][kraftstoffart]=diesel&tx_spritpreismonitor_pi1[searchRequest][tankstellenbetreiber]=' -O - | grep 'var spmResult'  | sed 's/},{/},{\n/g' 
+ 2382  wget -q 'http://www.spritpreismonitor.de/suche/?tx_spritpreismonitor_pi1[searchRequest][plzOrtGeo]=hamburg&tx_spritpreismonitor_pi1[searchRequest][umkreis]=5&tx_spritpreismonitor_pi1[searchRequest][kraftstoffart]=diesel&tx_spritpreismonitor_pi1[searchRequest][tankstellenbetreiber]=' -O - | grep 'var spmResult'  | tr '{}' '\n'
+ 2383  datum=aaa id=bbb preis=cc
+ 2384  echo $preis
+ 2385  wget -q 'http://www.spritpreismonitor.de/suche/?tx_spritpreismonitor_pi1[searchRequest][plzOrtGeo]=hamburg&tx_spritpreismonitor_pi1[searchRequest][umkreis]=5&tx_spritpreismonitor_pi1[searchRequest][kraftstoffart]=diesel&tx_spritpreismonitor_pi1[searchRequest][tankstellenbetreiber]=' -O - | grep 'var spmResult'  | tr '{}' '\n'
+ 2386  a=bbbb
+ 2387  "a"=bbbb
+ 2388  "emacs"
+ 2389  "a"=bbbb
+ 2390  grep 'var spmResult' O.html | sed 's/","/",\n"/g' | tr '{}' '\n' | sed  's/":"/ /'  | tr -d '"' | sed -e 's/,$//' -e  1d  | while read key val  ; do  case $key in datum) datum="$val" ;; mtsk_id) id=$val ;; diesel) { [ -r id/$id ] && grep -q "$datum $val" id/$id ; }  || echo $datum $val >> id/$id ;; esac ;  done 
+ 2391  grep 'var spmResult' O.html | sed 's/","/",\n"/g' | tr '{}' '\n' 
+ 2392  grep 'var spmResult' O.html  | tr '{}' '\n' 
+ 2393  grep 'var spmResult' O.html  | tr '{}' '\n' | sed -e 's/^"//'
+ 2394  grep 'var spmResult' O.html  | tr '{}' '\n' | sed -e 's/^"//' -e 's/":"/="/g'
+ 2395  grep 'var spmResult' O.html  | tr '{}' '\n' | sed -e 's/^"//' -e 's/":"/="/g' -e 's/,"/      /'
+ 2396  grep 'var spmResult' O.html  | tr '{}' '\n' | sed -e 's/^"//' -e 's/":"/="/g' -e 's/,"/      /g'
+ 2397  mtsk_id="F0A4E043BA2549A2B40E3BD50CD2074C"      name="Esso Tankstelle"      marke="ESSO"      laengengrad="10.0584"      breitengrad="53.5609"      strasse="SIEVEKINGSALLEE 75"      hausnr=""      plz="20535"      ort="HAMBURG"      datum="2015-08-13 15:57:01"      diesel="1.069"      entfernung="4.29"
+ 2398  echo $entfernung 
+ 2399  grep 'var spmResult' O.html  | tr '{}' '\n' | sed -e 's/^"//' -e 's/":"/="/g' -e 's/,"/      /g'
+ 2400* , 
+ 2401  grep 'var spmResult' O.html  | tr '{}' '\n' | sed -e 's/^"//' -e 's/":"/="/g' -e 's/,"/      /g' | grep '^,'
+ 2402  grep 'var spmResult' O.html  | tr '{}' '\n' | sed -e 's/^"//' -e 's/":"/="/g' -e 's/,"/      /g' | grep -v '^,'
+ 2403  grep 'var spmResult' O.html  | tr '{}' '\n' | sed -e 's/^"//' -e 's/":"/="/g' -e 's/,"/      /g' | grep -v '^,' | less -S
+ 2404  grep 'var spmResult' O.html  | tr '{}' '\n' | sed -e 's/^"//' -e 's/":"/="/g' -e 's/,"/      /g' | grep ..  | less -S
+ 2405  grep 'var spmResult' O.html  | tr '{}' '\n' | sed -e 's/^"//' -e 's/":"/="/g' -e 's/,"/      /g' | grep name=  | less -S
+ 2406  grep 'var spmResult' O.html  | tr '{}' '\n' | sed -e 's/^"//' -e 's/":"/="/g' -e 's/,"/      /g' | grep name=  | head -1 
+ 2407  grep 'var spmResult' O.html  | tr '{}' '\n' | sed -e 's/^"//' -e 's/":"/="/g' -e 's/,"/      /g' | grep name=  | tail -1 
+ 2408  grep 'var spmResult' O.html  | tr '{}' '\n' | sed -e 's/^"//' -e 's/":"/="/g' -e 's/,"/      /g' | grep name=  | while read l ; do $l   ; done
+ 2409  mtsk_id="F0A4E043BA2549A2B40E3BD50CD2074C"
+ 2410  grep 'var spmResult' O.html  | tr '{}' '\n' | sed -e 's/^"//' -e 's/":"/="/g' -e 's/,"/      /g' | grep name=  | while read l ; do echo $l   ; done
+ 2411  grep 'var spmResult' O.html  | tr '{}' '\n' | sed -e 's/^"//' -e 's/":"/="/g' -e 's/,"/      /g' | grep name=  | head -1 | while read l ; do echo $l   ; done
+ 2412  grep 'var spmResult' O.html  | tr '{}' '\n' | sed -e 's/^"//' -e 's/":"/="/g' -e 's/,"/      /g' | grep name=  | head -1 | while read l ; do eval $l   ; done
+ 2413  grep 'var spmResult' O.html  | tr '{}' '\n' | sed -e 's/^"//' -e 's/":"/="/g' -e 's/,"/      /g' | grep name=  | head -1 | while read l ; do echo $l   ; done
+ 2414  echo $breitengrad 
+ 2415  grep 'var spmResult' O.html  | tr '{}' '\n' | sed -e 's/^"//' -e 's/":"/="/g' -e 's/,"/      /g' | grep name=  | head -1 | while read l ; do echo $l   ; done
+ 2416  grep 'var spmResult' O.html  | tr '{}' '\n' | sed -e 's/^"//' -e 's/":"/="/g' -e 's/,"/      /g' | grep name=  | head -1 | while read l ; do eval $l   ; done
+ 2417  echo $breitengrad 
+ 2418  breitengrad=fooooo
+ 2419  grep 'var spmResult' O.html  | tr '{}' '\n' | sed -e 's/^"//' -e 's/":"/="/g' -e 's/,"/      /g' | grep name=  | head -1 | while read l ; do eval $l   ; done
+ 2420  breitengrad=fooooo
+ 2421  grep 'var spmResult' O.html  | tr '{}' '\n' | sed -e 's/^"//' -e 's/":"/="/g' -e 's/,"/      /g' | grep name=  | head -1 | while read l ; do eval $l   ; done
+ 2422  echo $breitengrad 
+ 2423  mtsk_id="2104A66EB9B642BF8C571F3E547A0B97" name="Aral Tankstelle" marke="ARAL" laengengrad="9.92634" breitengrad="53.5639" strasse="Stresemannstrau00dfe" hausnr="329" plz="22761" ort="Hamburg" datum="2015-08-13 19:02:01" diesel="1.309" entfernung="4.63"
+ 2424  echo $breitengrad 
+ 2425  ( breitengrad=barrrrr ) 
+ 2426  echo $breitengrad 
+ 2427  bash -c ' breitengrad=barrrrr '
+ 2428  echo $breitengrad 
+ 2429  bash -c ' breitengrad=barrrrr  ; echo $breitengrad '
+ 2430  echo $breitengrad 
+ 2431  ( breitengrad=barrrrr ) 
+ 2432  pwd
+ 2433  grep 'var spmResult' O.html  | tr '{}' '\n' | sed -e 's/^"//' -e 's/":"/="/g' -e 's/,"/      /g' | grep name=  | head -1 | while read l ; do eval $l   ; echo $breitengrad ; done
+ 2434  grep 'var spmResult' O.html  | tr '{}' '\n' | sed -e 's/^"//' -e 's/":"/="/g' -e 's/,"/      /g' | grep name=  | head -1 | while read l ; do eval $l   ; echo $l ; echo $breitengrad ; done
+ 2435  echo $breitengrad 
+ 2436  bash -c ' breitengrad=barrrrr  ; echo $breitengrad '
+ 2437  bash -c " breitengrad=barrrrr  ; echo $breitengrad "
+ 2438  bash -c ' breitengrad=barrrrr  ; echo $breitengrad '
+ 2439  grep 'var spmResult' O.html  | tr '{}' '\n' | sed -e 's/^"//' -e 's/":"/="/g' -e 's/,"/      /g' | grep name=  | head -1 | while read l ; do eval $l   ; echo $l ; echo $breitengrad ; done
+ 2440  a=1 b=1
+ 2441  a=2 | b=2 
+ 2442  echo $a $b
+ 2443  zsh
+ 2444  pwd
+ 2445  echo hallo | while read foo ; do echo ERG ; done
+ 2446  echo hallo | while read foo ; do echo ret=ERG ; done
+ 2447  echo hallo | while read foo ; do ret=ERG ; done
+ 2448  grep $ret
+ 2449  echo hallo | while read foo ; do echo ERG ; done
+ 2450  ret=` echo hallo | while read foo ; do echo ERG ; done `
+ 2451  echo $ret
+ 2452  echo hallo | while read foo ; do echo ERG ; done
+ 2453  echo hallo | while read foo ; do echo ERG ; done 
+ 2454  pwd
+ 2455  grep 'var spmResult' O.html  | tr '{}' '\n' | sed -e 's/^"//' -e 's/":"/="/g' -e 's/,"/      /g' | grep name=  | head -1 | while read l ; do eval $l  ; done
+ 2456  echo $breitengrad 
+ 2457  breitengrad=fooooo
+ 2458  echo $breitengrad 
+ 2459  while read l ; do eval $l  ; done < /etc/passwd
+ 2460  while read l ; do eval $l  ; done < <<EOF
+ 2461  while read l ; do eval $l  ; done  <<EOF
+a
+b
+c
+EOF
+
+ 2462  while read l ; do eval $l  ; done <  <(  echo echo hallo  ) 
+ 2463  while read l ; do eval $l  ; done <  <(  echo breitengrad=BARRRR  ) 
+ 2464  echo $breitengrad 
+ 2465  echo   <(  echo breitengrad=BARRRR  )
+ 2466  while read l ; do eval $l  ; done <    <( grep 'var spmResult' O.html  | tr '{}' '\n' | sed -e 's/^"//' -e 's/":"/="/g' -e 's/,"/      /g' | grep name=  | head -1 |  )
+ 2467  while read l ; do eval $l  ; done <    <( grep 'var spmResult' O.html  | tr '{}' '\n' | sed -e 's/^"//' -e 's/":"/="/g' -e 's/,"/      /g' | grep name=  | head -1   )
+ 2468  echo $breitengrad 
+ 2469  breitengrad=fooooo
+ 2470  grep 'var spmResult' O.html  | tr '{}' '\n' | sed -e 's/^"//' -e 's/":"/="/g' -e 's/,"/      /g' | grep name=  | head -1 | while read l ; do eval $l  ; done
+ 2471  grep 'var spmResult' O.html  | tr '{}' '\n' | sed -e 's/^"//' -e 's/":"/="/g' -e 's/,"/      /g' | grep name=  | head -1 
+ 2472  grep 'var spmResult' O.html  | tr '{}' '\n' | sed -e 's/^"//' -e 's/":"/="/g' -e 's/,"/      /g' | grep name=  | head -1 | while read l ; do eval $l  ; echo $mtsk_id $datum $diesel ; done
+ 2473  grep 'var spmResult' O.html  | tr '{}' '\n' | sed -e 's/^"//' -e 's/":"/="/g' -e 's/,"/      /g' | grep name= | while read l ; do eval $l  ; echo $mtsk_id $datum $diesel ; done
+ 2474  grep 'var spmResult' O.html  | tr '{}' '\n' | sed -e 's/^"//' -e 's/":"/="/g' -e 's/,"/      /g' | grep name= | while read l ; do eval $l  ; echo grep -q "$datum $diesel" || echo "$datum $diesel" >> id/$mtsk_id ; done
+ 2475  grep 'var spmResult' O.html  | tr '{}' '\n' | sed -e 's/^"//' -e 's/":"/="/g' -e 's/,"/      /g' | grep name= | while read l ; do eval $l  ; grep -q "$datum $diesel" || echo "$datum $diesel" >> id/$mtsk_id ; done
+ 2476  grep 'var spmResult' O.html  | tr '{}' '\n' | sed -e 's/^"//' -e 's/":"/="/g' -e 's/,"/      /g' | grep name= | while read l ; do eval $l  ; grep -q "$datum $diesel" 2> /dev/null || echo "$datum $diesel" >> id/$mtsk_id ; done
+ 2477  grep 'var spmResult' O.html  | tr '{}' '\n' | sed -e 's/^"//' -e 's/":"/="/g' -e 's/,"/      /g' | grep name= | while read l ; do eval $l  ; grep -q "$datum $diesel" id/$mtsk_id  2> /dev/null || echo "$datum $diesel" >> id/$mtsk_id ; done
+ 2478  ll -tr id/
+ 2479  cat id/2104A66EB9B642BF8C571F3E547A0B97
+ 2480  ll -tr
+ 2481  grep 'var spmResult' O.html  | tr '{}' '\n' | sed -e 's/^"//' -e 's/":"/="/g' -e 's/,"/      /g' | grep name=  | head -1 
+ 2482  ll
+ 2483  grep 'var spmResult' O.html  | tr '{}' '\n' | sed -e 's/^"//' -e 's/":"/="/g' -e 's/,"/      /g' | grep name=  | head -1 
+ 2484  pwd
+ 2485  d
+ 2486  wd
+ 2487  pwd
+ 2488  pushd  ~/tanken/
+ 2489  pwd
+ 2490  ll *sh
+ 2491  cat g1.sh
+ 2492  ll
+ 2493  ll id/BA49D3B993124AA7BB45BED862BFB55B 
+ 2494  ll
+ 2495  ll *d/BA49D3B993124AA7BB45BED862BFB55B
+ 2496  cat ad/BA49D3B993124AA7BB45BED862BFB55B
+ 2497  grep Balingen ad/*
+ 2498  cat ad/38F066F2D0B0460A8475B0D5F6CB28B5
+ 2499  cat ad/BA49D3B993124AA7BB45BED862BFB55B
+ 2500  cat id/BA49D3B993124AA7BB45BED862BFB55B
+ 2501  less id/BA49D3B993124AA7BB45BED862BFB55B
+ 2502  less g1.sh
+ 2503  ll data/
+ 2504  ls data/
+ 2505  ll id | less
+ 2506  less e-center
+ 2507  gnuplot
+ 2508  less Makefile
+ 2509  make plot
+ 2510  make plot1
+ 2511  make plot2
+ 2512  %
+ 2513  ll -S id
+ 2514  ll -tr id | less
+ 2515  ll -S id
+ 2516  ll -tr id | less
+ 2517  ll -tr id
+ 2518  ll -S id
+ 2519  wc 4E9DA136817E45B3B436FE3B8A4E0BE5
+ 2520  wc id/4E9DA136817E45B3B436FE3B8A4E0BE5
+ 2521  less id/4E9DA136817E45B3B436FE3B8A4E0BE5
+ 2522  ll -tr
+ 2523  gnuplot
+ 2524  cat id/BA49D3B993124AA7BB45BED862BFB55B
+ 2525  %
+ 2526  ll -tr
+ 2527  ll *gp*
+ 2528  cat id.gp5
+ 2529  ll -S id
+ 2530  cat id/3B909EF74A7041A08C4FD303244C9810
+ 2531  less id/3B909EF74A7041A08C4FD303244C9810
+ 2532  %
+ 2533  ll -tr
+ 2534  ll -tr id
+ 2535  ll -tr id -S
+ 2536  ll -tr id -Sr
+ 2537  ll  id -Sr
+ 2538  ll  id -S
+ 2539  history | grep id/
+ 2540  cat id/005056BA7CB61ED2BCEBAD79C434CD45
+ 2541  history | grep id/
+ 2542  cat id/F0A4E043BA2549A2B40E3BD50CD2074C
+ 2543  %
+ 2544  d
+ 2545  p
+ 2546  history > history.txt
