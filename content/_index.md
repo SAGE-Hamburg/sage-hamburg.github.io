@@ -33,14 +33,19 @@ und kostenlos.
 
 Wir suchen in den lokalen Gruppen immer interessante Vortragende und interessante Themen wie
 
- * klassische bis hippe Ops, DevOps, Sysadmin- + Netzadmin-Themen
- *  Betriebssystem-/Kernel-nahes
- *  IT-Sicherheit
- *  Storage
- *  IT und Gesellschaft
+ * klassische bis hippe Ops-, DevOps-, Sysadmin- oder Netzadmin-Themen
+ * Betriebssystem-/Kernel-nahes
+ * OSS-Tools für den Alltag
+ * IT-Sicherheit
+ * Storage
+ * IT und Gesellschaft
 
 Auch hier hilft ein Blick in die [vergangenen Vorträge](/historisch), um 'ne Vorstellungen unseres Themenhorizonts zu bekommen.
 
-Bei uns zählen rein technische Themen. Wer die Erwartung hat, was zu verkaufen, ist hier fehl am Platze. Daher bitte Marketing-Vorträge oder Sales-Pitches in den Vorträgen.
+Bei uns zählen rein technische Themen. Wer die Erwartung hat, was zu verkaufen, ist hier fehl am Platze. Daher bitte keine Marketing-Vorträge oder Sales-Pitches in den Vorträgen.
+
+----
+<br />
+<br />
 
 
