@@ -24,12 +24,13 @@ Wir haben nichts gegen "Mund"propaganda (Mails/Tweets etc.) oder über die Weite
 
 #### Treffen ####
 
-Wir treffen uns in mehr oder weniger regelmäßigen Abständen [seit
-2006](https://sage-hamburg.github.io/historisch/). Zuhörer, Mitwirkende wie
-Gäste sind herzlich gern gesehen. Man sollte am besten beruflich oder zumindest
-als zeitraubendes Hobby mit Ops/System-, Netzadministration oder generell IT zu
-tun haben, oder sich bei Tecchie-Talks nicht langweilen. Alle Treffen sind frei
-und kostenlos.
+Wir treffen uns in mehr oder weniger regelmäßigen Abständen [seit 2006](/historisch/). Aktuelle Treffen findest du unter
+[Aktuelles](/blog).
+
+Zuhörer, Mitwirkende und Neugrierige sind herzlich willkommen.
+Man sollte am besten beruflich oder zumindest als zeitraubendes Hobby mit
+Ops/System-, Netzadministration oder generell IT zu tun haben, oder sich bei
+Tecchie-Talks nicht langweilen. Alle Treffen sind frei und kostenlos.
 
 Wir suchen in den lokalen Gruppen immer interessante Vortragende und interessante Themen wie
 
@@ -42,7 +43,7 @@ Wir suchen in den lokalen Gruppen immer interessante Vortragende und interessant
 
 Auch hier hilft ein Blick in die [vergangenen Vorträge](/historisch), um 'ne Vorstellungen unseres Themenhorizonts zu bekommen.
 
-Bei uns zählen rein technische Themen. Wer die Erwartung hat, was zu verkaufen, ist hier fehl am Platze. Daher bitte keine Marketing-Vorträge oder Sales-Pitches in den Vorträgen.
+Bei uns zählen rein technische Themen. Wer die Erwartung hat, was zu verkaufen, ist hier fehl am Platze. Daher bitte keine Marketing-Vorträge oder Sales Pitches in den Vorträgen.
 
 ----
 <br />
