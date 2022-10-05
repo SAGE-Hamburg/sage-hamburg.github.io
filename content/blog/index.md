@@ -1,12 +1,12 @@
 ---
 title: "Aktuelles / Treffen"
-description: "Aktuelles / Treffen"
+description: "Diesjährige Treffen"
 draft: false
 ---
 
 <br />
 
-##### Diesjährige Treffen #####
+----
 
 #### November 2022 ####
 
@@ -44,8 +44,6 @@ Sommerpause
 - Ankündigung: https://lists.guug.de/pipermail/sage-hamburg/2022q2/000321.html
 
 ----
-<br />
-<br />
 <br />
 <br />
 <br />
