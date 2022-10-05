@@ -7,7 +7,7 @@ googleAnalytics = ""
 
 [params]
     author = "Lenz Grimmer"
-    description = "System Administrators Guild Hamburg"
+    description = "SAGE Hamburg"
     githubUsername = "#"
     accent = "red"
     showBorder = true
