@@ -10,7 +10,7 @@ draft: false
 
 Die SAGE-Hamburg, vormals sage@guug Hamburg, hatte wie andere Community-Treffen eine lange, Corona-bedingte Pause.
 Wir beleben die Idee von Vorträgen zum Thema Linux, Unices, Netze und Systemadministration wieder. Wer sich
-bei den Old-School-Begriffen nicht wiederfindet, sollte zum Beispiel Systeme, Ops, DevOps verwenden. ;-)
+bei den Old-School-Begriffen nicht wiederfindet, kann gerne zum Beispiel Systeme, Ops, DevOps verwenden. ;-)
 Relevant ist für uns die Offenheit der Systeme, der Schnittstellen und Standards - das, was den Alltag
 vieler heute bestimmt. Und ohne dem das Internet nicht denkbar wäre.
 
@@ -25,7 +25,7 @@ Wir haben nichts gegen "Mund"propaganda (Mails/Tweets etc.) oder über die Weite
 #### Treffen ####
 
 Wir treffen uns in mehr oder weniger regelmäßigen Abständen [seit 2006](/historisch/). Aktuelle Treffen findest du unter
-[Aktuelles](/blog).
+[Aktuelles](/aktuelles).
 
 Zuhörer, Mitwirkende und Neugrierige sind herzlich willkommen.
 Man sollte am besten beruflich oder zumindest als zeitraubendes Hobby mit
