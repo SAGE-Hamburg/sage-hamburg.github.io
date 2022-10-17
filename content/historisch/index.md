@@ -103,11 +103,10 @@ Uni Hamburg um **19:00 Uhr**.
     ([Abstract](https://lists.guug.de/pipermail/sage-hamburg/2019q2/000310.html "weitere Infos auf der Mailingliste"),
     [Slides](talks/20190711-sageGUUG-AnsibleModules-handout.pdf))
 -   [August:]{.underline} Sommerpause
--   [12.9:]{.underline} Jens Link: *Netzequipment mit Ansible
-    konfigurieren*
+-   <span style="text-decoration-line:underline">12.9:</span> Jens Link: *Netzequipment mit Ansible konfigurieren*
     ([Abstract](https://lists.guug.de/pipermail/sage-hamburg/2019q3/000313.html "weitere Infos auf der Mailingliste"),
     [Slides](talks/jens_link_-_ansible-net-hh.pdf))
--   <u>28.11.:</u> Harald König: *Gnuplot*
+-   <ins>28.11.:</ins> Harald König: *Gnuplot*
 
 [In Planung]{.underline}
 
