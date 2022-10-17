@@ -78,7 +78,8 @@ Mailing-Liste der GUUG für allgemeine technische Themen ist die der
 
 #### [Wegweiser/Anreiseinfos:]{#weg}
 
--   Seminarraum 304, Uni Hamburg RZ: [Schlüterstr. 70](https://maps.google.com/maps?f=q&hl=en&q=hamburg,++schlueterstr.+70,+germany&t=h&om=1&ll=53.569861,9.986293&spn=0.010806,0.02296),
+-   Seminarraum 304, Uni Hamburg RZ: [Schlüterstr.
+    70](https://maps.google.com/maps?f=q&hl=en&q=hamburg,++schlueterstr.+70,+germany&t=h&om=1&ll=53.569861,9.986293&spn=0.010806,0.02296),
     GPS ([kmz](guug-uni.kmz)): N: 53,5696 Grad / O: 9,9865 Grad.
     [HVV](http://www.geofox.de/base/welcome.jsp?destType=A&destName=Schlueterstrasse%2070&destRegion=Hamburg&departureOrArrival=0&startTime=19%3A15)
 
@@ -96,34 +97,34 @@ Uni Hamburg um **19:00 Uhr**.
 
 ### Treffen in 2019
 
--   <ul>9.5.</ul> Dirk Wetter: *Container Security \-- Technik gut,
+-   [9.5.]{.underline} Dirk Wetter: *Container Security \-- Technik gut,
     Umsetzung leider manchmal nicht so*
     ([Abstract](https://lists.guug.de/pipermail/sage-hamburg/2019q2/000305.html "weitere Infos auf der Mailingliste"),
     [Slides](talks/Dirk_Wetter_-_Docker_Top10-sage@guughh.pdf))
--   <ul>6.6.</ul> Stefan Kelm: *CyberChef* \-- Demo des GCHQ-Tools
+-   [6.6.]{.underline} Stefan Kelm: *CyberChef* \-- Demo des GCHQ-Tools
     ([Abstract](https://lists.guug.de/pipermail/sage-hamburg/2019q2/000308.html "weitere Infos auf der Mailingliste"))
--   <ul>11.7.</ul> Martin Schütte: *Ansible Module schreiben*
+-   [11.7.]{.underline} Martin Schütte: *Ansible Module schreiben*
     ([Abstract](https://lists.guug.de/pipermail/sage-hamburg/2019q2/000310.html "weitere Infos auf der Mailingliste"),
     [Slides](talks/20190711-sageGUUG-AnsibleModules-handout.pdf))
--   <ul>August:</ul> Sommerpause
--   <ul>12.9:</ul> Jens Link: *Netzequipment mit Ansible
+-   [August:]{.underline} Sommerpause
+-   [12.9:]{.underline} Jens Link: *Netzequipment mit Ansible
     konfigurieren*
     ([Abstract](https://lists.guug.de/pipermail/sage-hamburg/2019q3/000313.html "weitere Infos auf der Mailingliste"),
     [Slides](talks/jens_link_-_ansible-net-hh.pdf))
--   <ul>28.11.:</ul> Harald König: *Gnuplot*
+-   **28.11.:** Harald König: *Gnuplot*
 
-[In Planung</ul>
+[In Planung]{.underline}
 
 -   Jan Beileicke: pandoc
 -   Dirk Wetter: Update zu testssl.sh
 
 ### Treffen in 2018
 
--   <ul>19.4.</ul>: Andreas Dondera: *Cybercrime aus Sicht vom LKA
+-   [19.4.]{.underline}: Andreas Dondera: *Cybercrime aus Sicht vom LKA
     Hamburg*
     ([Abstract](https://lists.guug.de/pipermail/sage-hamburg/2018q2/000288.html "weitere Infos auf der Mailingliste"),
     [Slides](talks/2018_Cybercrime_60Min_Pub.pdf))
--   <ul>24.5.</ul>: Lenz Grimmer: *Einführung in Ceph, ein
+-   [24.5.]{.underline}: Lenz Grimmer: *Einführung in Ceph, ein
     hochverfügbares, verteiltes Cluster-Speichersystem*
     ([Abstract](https://lists.guug.de/pipermail/sage-hamburg/2018q2/000296.html "weitere Infos auf der Mailingliste"),
     [Slides](https://speakerdeck.com/lenzgr/the-ceph-distributed-storage-system)
@@ -132,16 +133,16 @@ Uni Hamburg um **19:00 Uhr**.
 
 ### Treffen in 2017
 
--   <ul>18.5.:</ul> Dirk Wetter: *TLS als Beruhigungspille*
+-   [18.5.:]{.underline} Dirk Wetter: *TLS als Beruhigungspille*
     ([Abstract](https://lists.guug.de/pipermail/sage-hamburg/2017q2/000268.html "weitere Infos auf der Mailingliste"),
     [Slides](talks/TLS_als_Beruhigungsmittel_Fragezeichen.pdf))
--   <ul>8.6.</ul> Jörg Schilling: *\"Bourne Shell, Korn Shell,
+-   [8.6.]{.underline} Jörg Schilling: *\"Bourne Shell, Korn Shell,
     \...*
     ([Abstract](https://lists.guug.de/pipermail/sage-hamburg/2017q2/000272.html "weitere Infos auf der Mailingliste"),
     Slides: [lokal](talks/Shell_ksh-2017-Hamburg.pdf),
     [Sourceforge](http://cdrtools.sourceforge.net/Files/Shell_ksh-2017-Hamburg.pdf),
     [Hinweise zur bosh](http://schilytools.sourceforge.net/bosh.html) )
--   <ul>Mittwoch(!) 5.7. 19h</ul> Vortrag von Ronald Claus:
+-   [Mittwoch(!) 5.7. 19h]{.underline} Vortrag von Ronald Claus:
     *Automatisierte Absicherung von Linuxsystemen mittels Puppet*
     ([Abstract](https://lists.guug.de/pipermail/sage-hamburg/2017q2/000275.html "weitere Infos auf der Mailingliste"),
     [Slides](talks/securityPuppet.pdf))
@@ -150,143 +151,143 @@ Uni Hamburg um **19:00 Uhr**.
     [Mehr](https://lists.guug.de/pipermail/sage-hamburg/2017q3/000277.html "weitere Infos auf der Mailingliste")~~
     Wegen \"Xavier\" ist dieser Vortrag leider ausgefallen und wird
     Anfang 2018 neu angesetzt.
--   <ul>30.11.</ul>: Vortrag von Bernd Brörmann zu jq.
+-   [30.11.]{.underline}: Vortrag von Bernd Brörmann zu jq.
     [Mehr](https://lists.guug.de/pipermail/sage-hamburg/2017q4/000282.html "weitere Infos auf der Mailingliste")
--   <ul>13.12.</ul>: Weihnachtmarkttreffen
+-   [13.12.]{.underline}: Weihnachtmarkttreffen
     [Mehr](https://lists.guug.de/pipermail/sage-hamburg/2017q4/000284.html "weitere Infos auf der Mailingliste")
 
 ### Treffen in 2016
 
--   <ul>7. April</ul>, 19h: Vortrag Martin Schütte: *Terraform:
+-   [7. April]{.underline}, 19h: Vortrag Martin Schütte: *Terraform:
     Config Management for Cloud Services*,
     [Abstract](https://lists.guug.de/pipermail/sage-hamburg/2016q1/000266.html "weitere Infos auf der Mailingliste"),
     [Slides](https://mschuette.name/files/20160407-sageHH-Terraform-print.pdf "Folien")
 
 ### Treffen in 2015
 
--   <ul>7. Mai:</ul> 18 Uhr: Netzwerken und Beering (Lokation:
+-   [7. Mai:]{.underline} 18 Uhr: Netzwerken und Beering (Lokation:
     [Hamburg del
     Mar)](http://www.openstreetmap.org/node/1372532099#map=17/53.54574/9.96399 "OSM Link"),
     [Mailingliste](https://lists.guug.de/pipermail/sage-hamburg/2015q2/000249.html "weitere Infos auf der Mailingliste")
--   <ul>11. Juni</ul> Pause
--   <ul>2. Juli</ul>, 19h: Vortrag Patrick Fuhrmann: *dCache,
+-   [11. Juni]{.underline} Pause
+-   [2. Juli]{.underline}, 19h: Vortrag Patrick Fuhrmann: *dCache,
     Sync-and-Share for Big Data at DESY*,
     [Abstract](https://lists.guug.de/pipermail/sage-hamburg/2015q2/000249.html "weitere Infos auf der Mailingliste"),
     [Slides](talks/20150702-dcache-sage-stammtisch.pdf "Folien")
--   <ul>13. August</ul>, 19 Uhr: Workshop (3h) Harald König: *\~
+-   [13. August]{.underline}, 19 Uhr: Workshop (3h) Harald König: *\~
     Günstig tanken mit der Shell*,
     [Abstract](https://lists.guug.de/pipermail/sage-hamburg/2015q3/000253.html "weitere Infos auf der Mailingliste").
     Die [Shell history](talks/harald/history.TXT), Version
     [1](talks/harald/get.sh) und [2](talks/harald/get-v2.sh) des
     Shell-Skriptes
--   <ul>24. September</ul>, Jens Link: *Verteiltes Monitoring auf
+-   [24. September]{.underline}, Jens Link: *Verteiltes Monitoring auf
     Basis von Icinga2 und Puppet*,
     [Abstract](https://lists.guug.de/pipermail/sage-hamburg/2015q3/000257.html "weitere Infos auf der Mailingliste")
--   <ul>12. November</ul>, Dirk Wetter: *testssl.sh: OpenSSL, bash
+-   [12. November]{.underline}, Dirk Wetter: *testssl.sh: OpenSSL, bash
     sockets und modernes bash beim SSL Testing*,
     [Abstract](https://lists.guug.de/pipermail/sage-hamburg/2015q4/000260.html "weitere Infos auf der Mailingliste"),
     [Slides](https://drwetter.eu/talks/testssl.sh%20%C3%9Cber%20die%20Herausforderungen,%20SSL-Testing%20in%20einer%20Skriptsprache%20zu%20implementieren.pdf)
--   <ul>10. Dezember</ul>, Weihnachtsparty bei Glühwein etc.
+-   [10. Dezember]{.underline}, Weihnachtsparty bei Glühwein etc.
 
 ### Treffen in 2014
 
--   <ul>27.März</ul> : Vortrag Martin Schuette: [Our Puppet Story
+-   [27.März]{.underline} : Vortrag Martin Schuette: [Our Puppet Story
     \-- Rezepte für Vagrant und
     Puppet](talks/20140327-guug-puppet-story.pdf "Slides")
     ([Abstract](https://lists.guug.de/pipermail/sage-hamburg/2014q1/000224.html "weitere Infos auf der Mailingliste")).
--   <ul>24. April</ul> : Vortrag Jens Link: [libvirt / kvm auf dem
+-   [24. April]{.underline} : Vortrag Jens Link: [libvirt / kvm auf dem
     eigenen Root
     Server](talks/kvm-libvirt-hh.pdf "Sildes") plus
     automatische Konfiguration mit Puppet
     ([Abstract](https://lists.guug.de/pipermail/sage-hamburg/2014q2/000226.html "weitere Infos auf der Mailingliste")).
--   <ul>Mai</ul>: Pause
--   <ul>12.(!) Juni</ul>
+-   [Mai]{.underline}: Pause
+-   [12.(!) Juni]{.underline}
     -   Vortrag Martin Alfke: *OpenNebula - private cloud management*
         ([http://opennebula.org/](http://opennebula.org/)),
         mit Live-Demo
-    -   <ul>Abstract](https://lists.guug.de/pipermail/sage-hamburg/2014q2/000233.html "weitere Infos auf der Mailingliste"),
+    -   [Abstract](https://lists.guug.de/pipermail/sage-hamburg/2014q2/000233.html "weitere Infos auf der Mailingliste"),
         Folien:
         [lokal](talks/guug-opennebula-140620055437.pdf "Sildes"),
         [slideshare.net](talks/guug-opennebula-140620055437.pdf "Slideshare")
--   <ul>Juli, August</ul>: Sommerpause
--   <ul>18. September, 19 Uhr</ul>
+-   [Juli, August]{.underline}: Sommerpause
+-   [18. September, 19 Uhr]{.underline}
     -   Vortrag Jens Kühnel: *I love logging*
-    -   <ul>Abstract](https://lists.guug.de/pipermail/sage-hamburg/2014q3/000236.html "weitere Infos auf der Mailingliste")
+    -   [Abstract](https://lists.guug.de/pipermail/sage-hamburg/2014q3/000236.html "weitere Infos auf der Mailingliste")
         und
         [Slides](talks/Structured%202Logfile%20Analyse-GUUGHH-2014.pdf "Sildes")
--   <ul>9. Oktober, 19 Uhr</ul>
+-   [9. Oktober, 19 Uhr]{.underline}
     -   Vortrag Lenz Grimmer: *Projektdokumentation mit reStructuredText
         und Sphinx: Eine Einführung*
-    -   <ul>Abstract](https://lists.guug.de/pipermail/sage-hamburg/2014q3/000239.html "weitere Infos auf der Mailingliste")
+    -   [Abstract](https://lists.guug.de/pipermail/sage-hamburg/2014q3/000239.html "weitere Infos auf der Mailingliste")
         [Slides](talks/Projektdokumentation_mit_reStructuredText_und_Sphinx-GUUG-HH-2014-10-09.pdf "leider ohne die schönen Animationen von rSt/Hovercraft (siehe Slides)")
     -   Ort: Uni HH RZ
     -   Lokation fürs Bier danach: TBD kurzfristig
--   <ul>18. Dezember</ul> (Donnerstag):
+-   [18. Dezember]{.underline} (Donnerstag):
     [Treffen](https://lists.guug.de/pipermail/sage-hamburg/2014q4/000241.html "weitere Infos auf der Mailingliste")
     auf dem Weihnachtsmark 18:30 Uhr, Petrikirche
 
 ### Treffen in 2013
 
--   <ul>Januar</ul>: Pause, kein Treffen diesen Monat
--   <ul>14.2.2013</ul>, *19:00*
+-   [Januar]{.underline}: Pause, kein Treffen diesen Monat
+-   [14.2.2013]{.underline}, *19:00*
     -   Jens Link: [check_mk -- Die etwas andere Art mit Nagios zu
         arbeiten](http://www.guug.de/lokal/berlin/downloads/20120503_check_mk.pdf "_blank").
         Mehr:
         [Abstract](https://lists.guug.de/pipermail/sage-hamburg/2013q1/000202.html)
         von der Mailing-Liste
--   <ul>14.3.2013</ul>, *19:00*
+-   [14.3.2013]{.underline}, *19:00*
     -   Markus Manzke über
         [Naxsi](talks/naxsi.pdf "Sildes").
         [Naxsi](https://www.owasp.org/index.php/OWASP_NAXSI_Project "Naxsi @ owasp.org")
         ist einfach gesprochen das mod_security für den Webserver nginx.
     -   Gemeinschaftsveranstaltung mit dem [OWASP-Stammtisch
         Hamburg](http://owasp.de/hamburg/ "_blank")
-    -   <ul>Abstract](https://lists.guug.de/pipermail/sage-hamburg/2013q1/000204.html)
+    -   [Abstract](https://lists.guug.de/pipermail/sage-hamburg/2013q1/000204.html)
         von der Mailing-Liste
--   <ul>April+ Mai</ul>: Pause
+-   [April+ Mai]{.underline}: Pause
 -   ~~13.6.2013~~ **8.8.2013**
     -   Lenz Grimmer: [Btrfs und ZFS: eine Gegenüberstellung von
         Dateisystemen der neuen
         Generation](talks/Btrfs-und-ZFS-GUUG-HAM-2013-08-08.pdf)
-    -   <ul>Abstract](https://lists.guug.de/pipermail/sage-hamburg/2013q3/000210.html)
+    -   [Abstract](https://lists.guug.de/pipermail/sage-hamburg/2013q3/000210.html)
         von der Mailing-Liste
     -   Wir [gedenken](http://ulrichgraef.rootpool.org/) bei dieser
         Gelegenheit Uli Graef
--   <ul>September</ul>: Pause
--   <ul>10. Oktober, 19 Uhr</ul>:
+-   [September]{.underline}: Pause
+-   [10. Oktober, 19 Uhr]{.underline}:
     -   Martin Gerhard Loschwitz: [Software Defined Networking &
         OpenStack](talks/sdn-oct2013-notes-handout.pdf "slides mit handouts")
-    -   <ul>Abstract](https://lists.guug.de/pipermail/sage-hamburg/2013q3/000214.html)
+    -   [Abstract](https://lists.guug.de/pipermail/sage-hamburg/2013q3/000214.html)
         von der Mailing-Liste
--   <ul>14. November</ul>, 19 Uhr:
+-   [14. November]{.underline}, 19 Uhr:
     -   Lennart Koopmann: *Graylog2* ([OSS
         Log-Management](http://graylog2.org/ "Webseite von Graylog"))
-    -   <ul>Abstract](https://lists.guug.de/pipermail/sage-hamburg/2013q4/000218.html)
+    -   [Abstract](https://lists.guug.de/pipermail/sage-hamburg/2013q4/000218.html)
         von der Mailing-Liste
     -   Ort: Uni RZ, R 304
--   <ul>12. Dezember, 18h</ul>
+-   [12. Dezember, 18h]{.underline}
     -   Kleine externe Weihnachtsfeier auf dem Weihnachtsmarkt (City)
     -   Exakter Treffpunkt TBD
 
 ### Treffen in 2012
 
--   <ul>12.1.2012</ul>:
+-   [12.1.2012]{.underline}:
     -   Jens Link -- [NetDot und RANCID](talks/guug.netdot-rancid.pdf)
         ([Abstract](http://lists.guug.de/pipermail/sage-hamburg/2012q1/000167.html ".. und Bio von der Mailingliste"))
--   <ul>16.2.2012</ul>, *19:15*
+-   [16.2.2012]{.underline}, *19:15*
     -   Erkan Yanar -- [LXC: Der Weg MySQL zu
         virtualisieren?](talks/LXC-Techtalk.pdf "Slides"),
         ([Abstract](http://lists.guug.de/pipermail/sage-hamburg/2012q1/000169.html ".. und Bio von der Mailingliste"))
--   <ul>22.3.2012</ul>, *19:30*
+-   [22.3.2012]{.underline}, *19:30*
     -   Treffen in der
         [Klimperkiste](http://www.klimperkiste.com/page/Anfahrt.php "Anfahrt")
     -   ~~Alexander Koderman *Thema: BSI Grundschutz/ISMS mit verinice*,
         Details folgen. Event findet bei Lehmanns statt~~
--   <ul>19.4.2012</ul>
+-   [19.4.2012]{.underline}
     -   Christian Berendt (B1 Systems): [OpenStack in der
         Praxis](talks/openstack-presentation.pdf "Slides"),
         ([Abstract](http://lists.guug.de/pipermail/sage-hamburg/2012q2/000175.html ".. und Bio von der Mailingliste"))
--   <ul>31.5.2012</ul> (\<\-- Achtung, Terminänderung), *19:00*
+-   [31.5.2012]{.underline} (\<\-- Achtung, Terminänderung), *19:00*
     -   Björn-C. Bösch über [Einheitliches Austauschformat verschiedener
         IDS](talks/BCBoesch-IDS-Parametrisierung.pdf "Slides")
         ([Abstract](http://lists.guug.de/pipermail/sage-hamburg/2012q2/000180.html))
@@ -294,55 +295,55 @@ Uni Hamburg um **19:00 Uhr**.
         [Attraktor](http://http://wiki.attraktor.org/Main_Page) (s.
         Webseite oben rechts)
 -   Juni+Juli: Sommerpause
--   <ul>9.8.2012</ul>:
+-   [9.8.2012]{.underline}:
     -   Wolfgang Stief - [Über die besonderen Anforderungen beim Sammeln
         historischer
         Großrechner](talks/datarena.pdf "Slides"), alle
         gezeigten
         [Bilder](talks/bilder-craycyber/index.html "Bilder")
-    -   <ul>Abstract](http://lists.guug.de/pipermail/sage-hamburg/2012q3/000184.html)
+    -   [Abstract](http://lists.guug.de/pipermail/sage-hamburg/2012q3/000184.html)
         von der Mailling-Liste
--   <ul>13.9.2012</ul>:
+-   [13.9.2012]{.underline}:
     -   Stefan Neufeind - [Systemmanagementtrio: Zentrale Verwaltung mit
         facter, puppet und
         augeas](talks/GUUG_Hamburg_2012_09_puppet.pdf "Slides"),
         ([Abstract](http://lists.guug.de/pipermail/sage-hamburg/2012q3/000188.html "Kurzzusammenfassung von der Mailingliste"))
--   <ul>11.10.2012</ul>:
+-   [11.10.2012]{.underline}:
     -   Ricardo Bartels - [Icinga - Open Source
         Monitoring](talks/icinga_guug_hamburg_11-2012.pdf "Slides"),
         ([Abstract](http://lists.guug.de/pipermail/sage-hamburg/2012q4/000190.html "Kurzzusammenfassung von der Mailingliste"))
--   <ul>15.11.2012</ul>:
+-   [15.11.2012]{.underline}:
     -   Alexander Kodermann - *ISO 2700x und IT-Grundschutz mit dem
         OpenSource-Tool \"verinice\"* mit Demos,
         ([Abstract](http://lists.guug.de/pipermail/sage-hamburg/2012q4/000194.html "Kurzzusammenfassung von der Mailingliste"))
 
 ### Treffen in 2011
 
--   <ul>24.2.2011</ul>: Lars Marowsky-Bree (Suse) -- [Open Source:
+-   [24.2.2011]{.underline}: Lars Marowsky-Bree (Suse) -- [Open Source:
     Gründe und Auswirkungen von konkurrierenden Parallelentwicklungen,
     am Beispiel von Linux Kernel RAID
     Implementierungen](talks/Concurrent-Open-Source-Development.pdf)
     ([Abstract](http://lists.guug.de/pipermail/sage-hamburg/2011q1/000137.html))
--   <ul>10.3.2011</ul>: Andreas la Quiante (Cisco) -- [LISP: IP neu
+-   [10.3.2011]{.underline}: Andreas la Quiante (Cisco) -- [LISP: IP neu
     strukturiert](talks/LISP-GUUG-ALQ-004.pdf)
     ([Abstract](http://lists.guug.de/pipermail/sage-hamburg/2011q1/000139.html))
--   <ul>14.4.2011</ul>, Gemeinschaftlich mit [OWASP-Stammtisch
+-   [14.4.2011]{.underline}, Gemeinschaftlich mit [OWASP-Stammtisch
     Hamburg](http://www.owasp.org/index.php/OWASP_German_Chapter_Stammtisch_Initiative/Hamburg):
     Dr. Tim Sattler - [Sicherheit in der Cloud - Chancen und
     Risiken](talks/OWASP_Sicherheit_in_der_Cloud.pdf)
     ([Abstract](http://lists.guug.de/pipermail/sage-hamburg/2011q1/000141.html))
--   <ul>26.5.2011</ul>: Lenz Grimmer [MySQL
+-   [26.5.2011]{.underline}: Lenz Grimmer [MySQL
     Replikationstechnologien](talks/MySQL-Replikationstechnologien-de-GUUG-HH-2011-05-26.pdf)
--   <ul>27.6.2011</ul> [Voice over IP: Grundlagen und
+-   [27.6.2011]{.underline} [Voice over IP: Grundlagen und
     Einsatzmöglichkeiten](talks/VoIP.wemheuer@GUUG-HH_20110627.pdf) von
     Karsten Wemheuer
--   Juli: [Sommerpause</ul>
--   <ul>11.8.2011</ul>
+-   Juli: [Sommerpause]{.underline}
+-   [11.8.2011]{.underline}
     -   Christian Paulsen (DFN Cert): [Chancen und Risiken
         elektronischer Wahlen](talks/E-Voting%20GUUG.pdf)
     -   Lokation: DFN-Cert ([Sachsenstraße
         5](http://maps.google.de/maps?q=Sachsenstra%C3%9Fe+5+hamburg&oe=utf-8&um=1&ie=UTF-8&hq=&hnear=0x47b18eed0d41371d:0x3a455f24c069aaca,Sachsenstra%C3%9Fe+5,+D-20097+Hamburg&gl=de&ei=y2QtTsHJOcnwsgaH3I34Dw&sa=X&oi=geocode_result&ct=title&resnum=1&ved=0CBcQ8gEwAA "Google's Map"))
--   <ul>13.9.2011</ul> (Achtung: Dienstag), 20.00 Uhr
+-   [13.9.2011]{.underline} (Achtung: Dienstag), 20.00 Uhr
     -   Dirk Kollberg (Sophos)/Toralv Dirro (McAfee):
         Sicherheits-Ratatouille: Eine bunte Mischung mit Zutaten aus
         [Sozialen Netzen, neues aus der Welt der
@@ -351,49 +352,49 @@ Uni Hamburg um **19:00 Uhr**.
         Devices](talks/McAfeeLabs%20-%20Malicious%20World%20+%20Mobile%20Devices.pdf)
     -   Lokation: Lehmanns, gemeinsam mit [OWASP-Stammtisch
         Hamburg](https://www.owasp.org/index.php/OWASP_German_Chapter_Stammtisch_Initiative#tab=Hamburg)
-    -   <ul>Abstract
+    -   [Abstract
         Mailingliste](http://lists.guug.de/pipermail/sage-hamburg/2011q3/000157.html)
--   <ul>13.10.2011</ul>: [Open Source Tools for Security
+-   [13.10.2011]{.underline}: [Open Source Tools for Security
     Testing](talks/Security_Testing_mit_OSS-Tools.pdf) von Thorsten Dahm
     (Google)
--   <ul>24.11.2011</ul> (Achtung: Terminänderung): [Digitale
+-   [24.11.2011]{.underline} (Achtung: Terminänderung): [Digitale
     Forensik mit
     Open-Source-Tools](talks/GUUG.Open%20Source%20Forensic.pdf) von
     Donde
 
 ### Treffen in 2010
 
--   <ul>20.1.2010</ul> (Mittwoch): Alex Vogt (linexa) [Distribution
+-   [20.1.2010]{.underline} (Mittwoch): Alex Vogt (linexa) [Distribution
     selbst gemacht](talks/Distro_from_Scratch.pdf) . Lokation: Uni RZ
--   <ul>11.3.2010</ul> Björn Schulz / Torsten Brumm: [Request
+-   [11.3.2010]{.underline} Björn Schulz / Torsten Brumm: [Request
     Tracker: Nachhaltige Problemverarbeitung inklusive Asset-,
     Knowledge- und Workflow-Management auf
     Open-Source-Basis](talks/RT-GUUG-20100228_final.pdf). Lokation: Uni
     RZ
--   <ul>30.7.2010</ul> Sysadmin-Day-Feier, [mit und beim
+-   [30.7.2010]{.underline} Sysadmin-Day-Feier, [mit und beim
     CCC](http://www.hamburg.ccc.de/2010/07/13/365),
     ([Anfahrt](http://wiki.attraktor.org/index.php/Termin:SysadminDay2010))
--   <ul>19.8.2010</ul> Thorsten Dahm (Google), [Google Network
+-   [19.8.2010]{.underline} Thorsten Dahm (Google), [Google Network
     Filtering Management](talks/ACL_Management_Google_GUUG.pdf)
--   <ul>9.9.2010</ul> Andreas La Quiante (Cisco), [Neue
+-   [9.9.2010]{.underline} Andreas La Quiante (Cisco), [Neue
     Möglichkeiten im Rechenzentrum, einfach erklärt: Unified I/O, DCB /
     FCoE und die wunderbare Welt auf Schicht
     2](talks/wunderbare.welt.layer2_ALQ@cisco.pdf)
--   <ul>14.10.2010</ul> Dirk Wetter [OWASP Top 10: Wat
+-   [14.10.2010]{.underline} Dirk Wetter [OWASP Top 10: Wat
     nu?](http://drwetter.eu/talks/OWASP_T10-Wat-nu.pdf)
     (Gemeinschaftsveranstaltung mit dem [OWASP-Stammtisch
     Hamburg](http://www.owasp.org/index.php/OWASP_German_Chapter_Stammtisch_Initiative#tab=Hamburg))
--   <ul>11.11.2010</ul> Klaus J. Müller [Datenschutzfreundliche
+-   [11.11.2010]{.underline} Klaus J. Müller [Datenschutzfreundliche
     Smart
     Meter](talks/Datenschutzfreundliche%20Smart%20Meter%20-%20GUUG-Treffen%20-%202010-11-11.pdf)
     bei der Lehmanns Fachbuchhandlung
--   <ul>9.12.2010</ul> um 19:00 Uhr: Gemütlicher Ausklang des
+-   [9.12.2010]{.underline} um 19:00 Uhr: Gemütlicher Ausklang des
     Jahres (a.k.a. Weihnachtsfeier): Spiel \"IT-Tabu\", Ankündigung
     folgt
 
 ### Treffen in 2009
 
--   <ul>9.2.2009</ul> Gemeinschaftsveranstaltung mit und bei der
+-   [9.2.2009]{.underline} Gemeinschaftsveranstaltung mit und bei der
     Lehmanns Fachbuchhandlung, Vortragender: Roland Dürre,
     Vorstandsvorsitzender InterFace AG ([Keynote Speaker GUUG-FFG
     2008](http://www.guug.de/veranstaltungen/ffg2008/abstracts.html#3_1_1))
@@ -401,89 +402,89 @@ Uni Hamburg um **19:00 Uhr**.
     [Mehr
     Information](http://www.interface-ag.com/blog/rd/vortrag-an-der-universitat-erlangen-nurnberg-am-20-februar/).
     Nachbereitung im Max & Konsorten
--   <ul>12.3.2009</ul> Wegen gleichzeitigem
+-   [12.3.2009]{.underline} Wegen gleichzeitigem
     [GUUG-FFG](http://www.guug.de/veranstaltungen/ffg2009/) \"nur\"
     Treffen beim Bier im Frank und Frei (Schanze) um 19 Uhr. Bitte wegen
     Reservierungen anmelden bei hamburg bei guug punkt de.
--   <ul>9.4.2009</ul> im Uni RZ, Vortrag von [Dieter
+-   [9.4.2009]{.underline} im Uni RZ, Vortrag von [Dieter
     Klünter](http://www.dpunkt.de/buecher/2104.html): [Blick über den
     Tellerrand: freie Directory Server im
     Vergleich](talks/hdk-directory-vergleich.pdf)
--   <ul>7.5.2009</ul> Gemeinschaftsveranstaltung bei Lehmanns mit
+-   [7.5.2009]{.underline} Gemeinschaftsveranstaltung bei Lehmanns mit
     CAcert.org: [CAcert Assurer
     Training](http://blog.cacert.org/2009/05/383.html). Auch für
     Nicht-Assurer von Interesse, da eine Reihe
     [Änderungen](http://wiki.cacert.org/wiki/Events/20090507ATE-Hamburg)
     bei CAcert vorgestellt werden
     ([Agenda](http://wiki.cacert.org/wiki/Events/20090507ATE-Hamburg)).
--   <ul>11.6.2009</ul>: Gemeinschaftsveranstaltung mit und bei
+-   [11.6.2009]{.underline}: Gemeinschaftsveranstaltung mit und bei
     Lehmanns Fachbuchhandlung, Vortrag von Dirk Wetter: [Webunsicherheit
     2.0](http://drwetter.org/talks/webunsicherheit_2.0.guug.hh.pdf)
--   <ul>9.7.2009</ul> ~~Lightning Talks. Eine Anzahl Kurzvorträgen
+-   [9.7.2009]{.underline} ~~Lightning Talks. Eine Anzahl Kurzvorträgen
     zu Hacks/coolen Tipps u.a.. Bei Interesse an einem Slot bitte E-Mail
     an hamburg bei guug punkt de.~~ Fällt leider aus.
 -   August ist voraussichtlich Sommerpause
--   <ul>10.9.2009</ul>: Thorsten Dahm (Google Irland): [Network
+-   [10.9.2009]{.underline}: Thorsten Dahm (Google Irland): [Network
     Core Protection: Best
     Practices](talks/Network_Core_ProtectionBest_Practices.pdf)
--   <ul>8.10.2009</ul>: Lars Marowsky-Bree (Suse/Novell): [Der
+-   [8.10.2009]{.underline}: Lars Marowsky-Bree (Suse/Novell): [Der
     neue-alte High-Availability Cluster Stack auf Linux mit OpenAIS und
     Pacemaker](talks/OpenAis,Pacemaker...pdf)
--   <ul>12.11.2009</ul>: Jörn Engel: [SSD vs. Flash Dateisysteme /
+-   [12.11.2009]{.underline}: Jörn Engel: [SSD vs. Flash Dateisysteme /
     LogFS](talks/logfs_guug_hamburg_2009.pdf). RZ der Uni Hamburg,
     danach: Doris\' Diner
 
 ### Treffen in 2008
 
--   <ul>10.1.2008,</ul> 19:30: *Thorsten Dahm*, Google Ireland:
+-   [10.1.2008,]{.underline} 19:30: *Thorsten Dahm*, Google Ireland:
     [Multicast -- Was ist das
     eigentlich?](talks/Multicast%20--%20Was%20ist%20das%20eigentlich.pdf),
     anschließend ins Abaton-Bistro
--   <ul>14.2.2008,</ul> 19:00 Uhr: Johannes Hubertz, hubertz
+-   [14.2.2008,]{.underline} 19:00 Uhr: Johannes Hubertz, hubertz
     -it-consulting GmbH): [IPSec und
     SSL-VPNs](talks/IPsec+SSL-VPNs.pdf), Nachbereitung im Arkadasch
--   <ul>13.3.2008,</ul> 19:00 Uhr: Lenz Grimmer, MySQL AB:
+-   [13.3.2008,]{.underline} 19:00 Uhr: Lenz Grimmer, MySQL AB:
     [Einführung in die Erstellung von Software-Paketen mit dem
     RPM-Paketmanager](talks/Einfuehrung_Erstellung.RPM-PackageManager.pdf)
     (ein paar
     [Demodateien](talks/Einfuehrung_Erstellung.rpm-demo.tar.gz)) an der
     TU Harburg, Social Event danach im [Café
     Leben](http://www.heimfelder-leben.de/)
--   <ul>10.4.2008,</ul> 19:00 Uhr: Thomas Martens, BW-IT,
+-   [10.4.2008,]{.underline} 19:00 Uhr: Thomas Martens, BW-IT,
     [Redundante Anbindung von Linux-Servern](talks/linux-bonding.pdf),
     danach ins Arkadasch
--   <ul>8.5.2008,</ul>, 20:00 Uhr: Gemeinschaftsveranstaltung mit
+-   [8.5.2008,]{.underline}, 20:00 Uhr: Gemeinschaftsveranstaltung mit
     und bei der Lehmanns Fachbuchhandlung, Vortragender: Dr. Christoph
     Wegener, wecon.it-consulting: [Hackerparagraph und
     Online-Durchsuchung: Rechtsunsicherheit in der
     IT-Branche](talks/SGLH2008-HuO.pdf) ([weiterführende
     Infos](http://www.wecon.net/de/downloads/downloads.html?id=22)),
     Nachbereitung im Max & Konsorten
--   <ul>6.6.2008:</ul>20:00 Uhr, Lehmanns Fachbuchhandlung:
+-   [6.6.2008:]{.underline}20:00 Uhr, Lehmanns Fachbuchhandlung:
     Vorstellung verschiedener \"Usergroups\" in Hamburg. Die lokale
     GUUG-Gruppe war selbstverständlich [auch
     vertreten](talks/guug@lehmanns.pdf)
--   <ul>12.6.2008:</ul>19:00 Uhr:
+-   [12.6.2008:]{.underline}19:00 Uhr:
     [IPv6-Einführung](talks/ipv6-sage-hh.pdf) von Jens Link,
     anschließend in Arkadasch
--   <ul>31.7.2008</ul>: kleines Sommerfest, Grillen am Elbstrand
--   <ul>August</ul>: Sommerpause
--   <ul>11.9.2008:</ul> [Einführung ins verteilte
+-   [31.7.2008]{.underline}: kleines Sommerfest, Grillen am Elbstrand
+-   [August]{.underline}: Sommerpause
+-   [11.9.2008:]{.underline} [Einführung ins verteilte
     Versionskontrollsystem
     \"Bazaar\"](talks/SAGE@GUUG-BazaarIntro-2008-09-11.pdf) von Lenz
     Grimmer (MySQL/Sun), Nachbereitung im Arkadasch
--   <ul>9.10.2008:</ul> Kein Vortrag/Treffen, es findet zu der Zeit
+-   [9.10.2008:]{.underline} Kein Vortrag/Treffen, es findet zu der Zeit
     der [Linux-Kongress
     2008](http://www.linux-kongress.org/2008/program.html) in Hamburg
     statt
--   <ul>13.11.2008:</ul> [Einführung von IP-Telefonie für \>3000
+-   [13.11.2008:]{.underline} [Einführung von IP-Telefonie für \>3000
     Benutzer](talks/voip_am_desy2008.pdf) von Kars Ohrenberg, DESY
     Hamburg
--   <ul>22.12.2008</ul> Treffen um 19:30 im *mama (city)*
+-   [22.12.2008]{.underline} Treffen um 19:30 im *mama (city)*
 
 ### Treffen in 2007
 
--   <ul>1.2.2007:</ul>
+-   [1.2.2007:]{.underline}
     -   Gemeinschaftsveranstaltung Sun Microsystems + GUUG im RZ der Uni
         HH:
     -   *Darren Reed*, Sun Microsystems Australien, über [Advances in
@@ -491,65 +492,65 @@ Uni Hamburg um **19:00 Uhr**.
     -   ([Multimedia-Feed der
         CZOSUG](http://avc.sh.cvut.cz/avc.php?id=4245&language=en_US)),
         mehr Info s. [Anmeldung](20070201.html)
--   <ul>8.3.2007:</ul> Julius Plenz\' [vim feature
+-   [8.3.2007:]{.underline} Julius Plenz\' [vim feature
     show](talks/sage_hamburg_vim.ps)
     ([txt](talks/sage_hamburg_vim.text)), danach Treffen im Roxie
--   <ul>12.4.2007:</ul> Treffen + Vortrag wegen Krankheit des
+-   [12.4.2007:]{.underline} Treffen + Vortrag wegen Krankheit des
     Vortragenden leider ausgefallen. Andreas\' Sons *TCP Flow Control*
     wird alsbald nachgeholt.
--   <ul>10.5.2007:</ul> [MySQL Backup und Security unter
+-   [10.5.2007:]{.underline} [MySQL Backup und Security unter
     Linux](talks/SAGE@GUUG-Hamburg-MySQLBackupSecurity.pdf) von Lenz
     Grimmer, danach Treffen im Roxie
--   <ul>14.6.2007:</ul> *Emacs: \"Der einzige Editor\" / Eine kurze
+-   [14.6.2007:]{.underline} *Emacs: \"Der einzige Editor\" / Eine kurze
     Einführung in eine mächtige Arbeitsumgebung* von Nils Magnus, danach
     Treffen im Roxie
 -   Juli und August: Sommerpause
--   <ul>13.9.2007:</ul> 19:00 Uhr: Keysigning-Party in lockerer
+-   [13.9.2007:]{.underline} 19:00 Uhr: Keysigning-Party in lockerer
     Atmosphäre, Ort: Schanze
--   <ul>11.10.2007</ul> Gemeinschaftsveranstaltung mit und bei
+-   [11.10.2007]{.underline} Gemeinschaftsveranstaltung mit und bei
     [Lehmanns
     Fachbuchhandlung](http://www.lob.de/cgi-bin/work/pages?id=46d96a4932ef6&frame=yes&flag=new&menupic=yes&page=lfb_hambg):
     -   Vortrag von Jochen Topf über [Die Welt der
         Neogeographie](talks/vortrag-neogeo.pdf)
-    -   <ul>Video-Stream](http://www.loroma.com/loroma/movie.faces?movie=17)
+    -   [Video-Stream](http://www.loroma.com/loroma/movie.faces?movie=17)
         (Flashplayer ≥ 8 nötig)
     -   Ausklang des Abends bei Max und Konsorten
--   <ul>8.11.2007:</ul> Vortrag von Henning Sprang über
+-   [8.11.2007:]{.underline} Vortrag von Henning Sprang über
     [Virtualisierung mit Xen: Übersicht, Tools,
     APIs](talks/xen_sage-hh_2007-11-08.pdf) im Seminarraum Uni RZ,
     Ausklang des Abends im Favorit
--   <ul>20.12.2006</ul> um 19:00 Uhr: *Gemütlicher Ausklang des
+-   [20.12.2006]{.underline} um 19:00 Uhr: *Gemütlicher Ausklang des
     Jahres (a.k.a. Weihnachtsfeier)*: Spiel \"IT-Tabu\" im Uni RZ, siehe
     Ankündigung.
 
 ### Treffen in 2006
 
--   <ul>13.4.2006:</ul> 1. Treffen im Arkadasch
--   <ul>11.5.2006:</ul> Vortrag: [OOB-Management: Sicherheit und
+-   [13.4.2006:]{.underline} 1. Treffen im Arkadasch
+-   [11.5.2006:]{.underline} Vortrag: [OOB-Management: Sicherheit und
     mehr](http://drwetter.org/talks/oob-management,sagehh.pdf) von *Dirk
     Wetter (Dr. Wetter IT-Consulting)* , anschl. Treffen
--   <ul>08.6.2006:</ul> Vortrag: [Layer-2
+-   [08.6.2006:]{.underline} Vortrag: [Layer-2
     Security-Features](talks/IEEE%20802.1x,%20DAI+DHCP-Snooping.pdf) von
     *Thorsten Dahm (AOL)*, anschl. Treffen
--   <ul>13.7.2006:</ul> Vortrag: [Hochverfügbarkeit und
+-   [13.7.2006:]{.underline} Vortrag: [Hochverfügbarkeit und
     Load-Balancing-Cluster für
     Linux-Terminal-Dienste](talks/Linux-Terminal-Cluster-UNIHH.pdf) von
     *Wolfgang Büch (RZ Uni HH)*, anschl. Treffen
--   <ul>10.08.2006:</ul> Feature-Show: [Zsh - the
+-   [10.08.2006:]{.underline} Feature-Show: [Zsh - the
     uber-shell](talks/zsh_feature_show_handout.text) von *Julius Plenz*,
     anschl. Treffen (Ein
     [Traceback](http://lenz.homelinux.org/blog/archives/66-SAGEGUUG-Hamburg-Meeting.html)).
--   <ul>14.9.2006:</ul> 18:30h: Vortrag mit anschließendem Workshop
+-   [14.9.2006:]{.underline} 18:30h: Vortrag mit anschließendem Workshop
     von *Wolfgang Ley (Sun Microsystems)* über das [Service Management
     Facility (SMF)](talks/smf.pdf) von Solaris 10, anschl. Treffen
--   <ul>12.10.2006</ul> 18:45h: Vortrag über [Routing im Internet -
+-   [12.10.2006]{.underline} 18:45h: Vortrag über [Routing im Internet -
     Eine Einführung in
     BGP](talks/Routing%20im%20Internet%20-%20Eine%20Einfuehrung%20in%20BGP.pdf)
     von *Thorsten Dahm (AOL)*, anschl. Treffen
--   <ul>09.11.2006</ul>: Vortrag über *Heartbeat 2.x - N-Node
+-   [09.11.2006]{.underline}: Vortrag über *Heartbeat 2.x - N-Node
     Clustering und Data Center Automation* von *Lars Marowsky-Bree (SUSE
     Labs, R&D)*, danach wie üblich Treffen
--   <ul>15.12.2006</ul> (Freitag!) um 19 Uhr: *Gemütlicher Ausklang
+-   [15.12.2006]{.underline} (Freitag!) um 19 Uhr: *Gemütlicher Ausklang
     des Jahres (a.k.a. Weihnachtsfeier)*: Spiel \"IT-Tabu\", siehe
     Ankündigung. Üblicher Ort
 
