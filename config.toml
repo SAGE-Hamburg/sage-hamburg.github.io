@@ -7,13 +7,12 @@ googleAnalytics = ""
 
 [params]
     author = "Lenz Grimmer"
-    # Der Titel lugt halb davor bei mir, alos entferne ich den lieber
-    description = ""
+    description = "SAGE Hamburg"
     githubUsername = "#"
-    accent = "red"
-    showBorder = true
+    accent = "lightgreen"
+    showBorder = false
     backgroundColor = "white"
-    font = "Raleway" # should match the name on Google Fonts!
+    # font = "Raleway" # should match the name on Google Fonts!
     highlight = true
     highlightStyle = "default"
     highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
