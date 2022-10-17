@@ -99,17 +99,17 @@ Uni Hamburg um **19:00 Uhr**.
 
 -   [9.5.]{.underline} Dirk Wetter: *Container Security \-- Technik gut,
     Umsetzung leider manchmal nicht so*
-    ([Abstract](https://lists.guug.de/pipermail/sage-hamburg/2019q2/000305.html "weitere Infos auf der Mailingliste"){target="_blank"},
+    ([Abstract](https://lists.guug.de/pipermail/sage-hamburg/2019q2/000305.html "weitere Infos auf der Mailingliste"),
     [Slides](talks/Dirk_Wetter_-_Docker_Top10-sage@guughh.pdf))
 -   [6.6.]{.underline} Stefan Kelm: *CyberChef* \-- Demo des GCHQ-Tools
-    ([Abstract](https://lists.guug.de/pipermail/sage-hamburg/2019q2/000308.html "weitere Infos auf der Mailingliste"){target="_blank"})
+    ([Abstract](https://lists.guug.de/pipermail/sage-hamburg/2019q2/000308.html "weitere Infos auf der Mailingliste"))
 -   [11.7.]{.underline} Martin Schütte: *Ansible Module schreiben*
-    ([Abstract](https://lists.guug.de/pipermail/sage-hamburg/2019q2/000310.html "weitere Infos auf der Mailingliste"){target="_blank"},
+    ([Abstract](https://lists.guug.de/pipermail/sage-hamburg/2019q2/000310.html "weitere Infos auf der Mailingliste"),
     [Slides](talks/20190711-sageGUUG-AnsibleModules-handout.pdf))
 -   [August:]{.underline} Sommerpause
 -   [12.9:]{.underline} Jens Link: *Netzequipment mit Ansible
     konfigurieren*
-    ([Abstract](https://lists.guug.de/pipermail/sage-hamburg/2019q3/000313.html "weitere Infos auf der Mailingliste"){target="_blank"},
+    ([Abstract](https://lists.guug.de/pipermail/sage-hamburg/2019q3/000313.html "weitere Infos auf der Mailingliste"),
     [Slides](talks/jens_link_-_ansible-net-hh.pdf))
 -   **28.11.:** Harald König: *Gnuplot*
 
@@ -122,11 +122,11 @@ Uni Hamburg um **19:00 Uhr**.
 
 -   [19.4.]{.underline}: Andreas Dondera: *Cybercrime aus Sicht vom LKA
     Hamburg*
-    ([Abstract](https://lists.guug.de/pipermail/sage-hamburg/2018q2/000288.html "weitere Infos auf der Mailingliste"){target="_blank"},
+    ([Abstract](https://lists.guug.de/pipermail/sage-hamburg/2018q2/000288.html "weitere Infos auf der Mailingliste"),
     [Slides](talks/2018_Cybercrime_60Min_Pub.pdf))
 -   [24.5.]{.underline}: Lenz Grimmer: *Einführung in Ceph, ein
     hochverfügbares, verteiltes Cluster-Speichersystem*
-    ([Abstract](https://lists.guug.de/pipermail/sage-hamburg/2018q2/000296.html "weitere Infos auf der Mailingliste"){target="_blank"},
+    ([Abstract](https://lists.guug.de/pipermail/sage-hamburg/2018q2/000296.html "weitere Infos auf der Mailingliste"),
     [Slides](https://speakerdeck.com/lenzgr/the-ceph-distributed-storage-system)
     (extern) )
 -   Juli + August: Sommerpause
@@ -134,58 +134,58 @@ Uni Hamburg um **19:00 Uhr**.
 ### Treffen in 2017
 
 -   [18.5.:]{.underline} Dirk Wetter: *TLS als Beruhigungspille*
-    ([Abstract](https://lists.guug.de/pipermail/sage-hamburg/2017q2/000268.html "weitere Infos auf der Mailingliste"){target="_blank"},
+    ([Abstract](https://lists.guug.de/pipermail/sage-hamburg/2017q2/000268.html "weitere Infos auf der Mailingliste"),
     [Slides](talks/TLS_als_Beruhigungsmittel_Fragezeichen.pdf))
 -   [8.6.]{.underline} Jörg Schilling: *\"Bourne Shell, Korn Shell,
     \...*
-    ([Abstract](https://lists.guug.de/pipermail/sage-hamburg/2017q2/000272.html "weitere Infos auf der Mailingliste"){target="_blank"},
+    ([Abstract](https://lists.guug.de/pipermail/sage-hamburg/2017q2/000272.html "weitere Infos auf der Mailingliste"),
     Slides: [lokal](talks/Shell_ksh-2017-Hamburg.pdf),
     [Sourceforge](http://cdrtools.sourceforge.net/Files/Shell_ksh-2017-Hamburg.pdf),
     [Hinweise zur bosh](http://schilytools.sourceforge.net/bosh.html) )
 -   [Mittwoch(!) 5.7. 19h]{.underline} Vortrag von Ronald Claus:
     *Automatisierte Absicherung von Linuxsystemen mittels Puppet*
-    ([Abstract](https://lists.guug.de/pipermail/sage-hamburg/2017q2/000275.html "weitere Infos auf der Mailingliste"){target="_blank"},
+    ([Abstract](https://lists.guug.de/pipermail/sage-hamburg/2017q2/000275.html "weitere Infos auf der Mailingliste"),
     [Slides](talks/securityPuppet.pdf))
 -   ~~5.10.: Vortrag von Harald König, was man Tolles mit gnuplot
     anstellen kann.
-    [Mehr](https://lists.guug.de/pipermail/sage-hamburg/2017q3/000277.html "weitere Infos auf der Mailingliste"){target="_blank"}~~
+    [Mehr](https://lists.guug.de/pipermail/sage-hamburg/2017q3/000277.html "weitere Infos auf der Mailingliste")~~
     Wegen \"Xavier\" ist dieser Vortrag leider ausgefallen und wird
     Anfang 2018 neu angesetzt.
 -   [30.11.]{.underline}: Vortrag von Bernd Brörmann zu jq.
-    [Mehr](https://lists.guug.de/pipermail/sage-hamburg/2017q4/000282.html "weitere Infos auf der Mailingliste"){target="_blank"}
+    [Mehr](https://lists.guug.de/pipermail/sage-hamburg/2017q4/000282.html "weitere Infos auf der Mailingliste")
 -   [13.12.]{.underline}: Weihnachtmarkttreffen
-    [Mehr](https://lists.guug.de/pipermail/sage-hamburg/2017q4/000284.html "weitere Infos auf der Mailingliste"){target="_blank"}
+    [Mehr](https://lists.guug.de/pipermail/sage-hamburg/2017q4/000284.html "weitere Infos auf der Mailingliste")
 
 ### Treffen in 2016
 
 -   [7. April]{.underline}, 19h: Vortrag Martin Schütte: *Terraform:
     Config Management for Cloud Services*,
-    [Abstract](https://lists.guug.de/pipermail/sage-hamburg/2016q1/000266.html "weitere Infos auf der Mailingliste"){target="_blank"},
-    [Slides](https://mschuette.name/files/20160407-sageHH-Terraform-print.pdf "Folien"){target="_blank"}
+    [Abstract](https://lists.guug.de/pipermail/sage-hamburg/2016q1/000266.html "weitere Infos auf der Mailingliste"),
+    [Slides](https://mschuette.name/files/20160407-sageHH-Terraform-print.pdf "Folien")
 
 ### Treffen in 2015
 
 -   [7. Mai:]{.underline} 18 Uhr: Netzwerken und Beering (Lokation:
     [Hamburg del
-    Mar)](http://www.openstreetmap.org/node/1372532099#map=17/53.54574/9.96399 "OSM Link"){target="_blank"},
-    [Mailingliste](https://lists.guug.de/pipermail/sage-hamburg/2015q2/000249.html "weitere Infos auf der Mailingliste"){target="_blank"}
+    Mar)](http://www.openstreetmap.org/node/1372532099#map=17/53.54574/9.96399 "OSM Link"),
+    [Mailingliste](https://lists.guug.de/pipermail/sage-hamburg/2015q2/000249.html "weitere Infos auf der Mailingliste")
 -   [11. Juni]{.underline} Pause
 -   [2. Juli]{.underline}, 19h: Vortrag Patrick Fuhrmann: *dCache,
     Sync-and-Share for Big Data at DESY*,
-    [Abstract](https://lists.guug.de/pipermail/sage-hamburg/2015q2/000249.html "weitere Infos auf der Mailingliste"){target="_blank"},
-    [Slides](talks/20150702-dcache-sage-stammtisch.pdf "Folien"){target="_blank"}
+    [Abstract](https://lists.guug.de/pipermail/sage-hamburg/2015q2/000249.html "weitere Infos auf der Mailingliste"),
+    [Slides](talks/20150702-dcache-sage-stammtisch.pdf "Folien")
 -   [13. August]{.underline}, 19 Uhr: Workshop (3h) Harald König: *\~
     Günstig tanken mit der Shell*,
-    [Abstract](https://lists.guug.de/pipermail/sage-hamburg/2015q3/000253.html "weitere Infos auf der Mailingliste"){target="_blank"}.
+    [Abstract](https://lists.guug.de/pipermail/sage-hamburg/2015q3/000253.html "weitere Infos auf der Mailingliste").
     Die [Shell history](talks/harald/history.TXT), Version
     [1](talks/harald/get.sh) und [2](talks/harald/get-v2.sh) des
     Shell-Skriptes
 -   [24. September]{.underline}, Jens Link: *Verteiltes Monitoring auf
     Basis von Icinga2 und Puppet*,
-    [Abstract](https://lists.guug.de/pipermail/sage-hamburg/2015q3/000257.html "weitere Infos auf der Mailingliste"){target="_blank"}
+    [Abstract](https://lists.guug.de/pipermail/sage-hamburg/2015q3/000257.html "weitere Infos auf der Mailingliste")
 -   [12. November]{.underline}, Dirk Wetter: *testssl.sh: OpenSSL, bash
     sockets und modernes bash beim SSL Testing*,
-    [Abstract](https://lists.guug.de/pipermail/sage-hamburg/2015q4/000260.html "weitere Infos auf der Mailingliste"){target="_blank"},
+    [Abstract](https://lists.guug.de/pipermail/sage-hamburg/2015q4/000260.html "weitere Infos auf der Mailingliste"),
     [Slides](https://drwetter.eu/talks/testssl.sh%20%C3%9Cber%20die%20Herausforderungen,%20SSL-Testing%20in%20einer%20Skriptsprache%20zu%20implementieren.pdf)
 -   [10. Dezember]{.underline}, Weihnachtsparty bei Glühwein etc.
 
@@ -193,37 +193,37 @@ Uni Hamburg um **19:00 Uhr**.
 
 -   [27.März]{.underline} : Vortrag Martin Schuette: [Our Puppet Story
     \-- Rezepte für Vagrant und
-    Puppet](talks/20140327-guug-puppet-story.pdf "Slides"){target="_blank"}
-    ([Abstract](https://lists.guug.de/pipermail/sage-hamburg/2014q1/000224.html "weitere Infos auf der Mailingliste"){target="_blank"}).
+    Puppet](talks/20140327-guug-puppet-story.pdf "Slides")
+    ([Abstract](https://lists.guug.de/pipermail/sage-hamburg/2014q1/000224.html "weitere Infos auf der Mailingliste")).
 -   [24. April]{.underline} : Vortrag Jens Link: [libvirt / kvm auf dem
     eigenen Root
-    Server](talks/kvm-libvirt-hh.pdf "Sildes"){target="_blank"} plus
+    Server](talks/kvm-libvirt-hh.pdf "Sildes") plus
     automatische Konfiguration mit Puppet
-    ([Abstract](https://lists.guug.de/pipermail/sage-hamburg/2014q2/000226.html "weitere Infos auf der Mailingliste"){target="_blank"}).
+    ([Abstract](https://lists.guug.de/pipermail/sage-hamburg/2014q2/000226.html "weitere Infos auf der Mailingliste")).
 -   [Mai]{.underline}: Pause
 -   [12.(!) Juni]{.underline}
     -   Vortrag Martin Alfke: *OpenNebula - private cloud management*
-        ([http://opennebula.org/](http://opennebula.org/){target="_blank"}),
+        ([http://opennebula.org/](http://opennebula.org/)),
         mit Live-Demo
-    -   [Abstract](https://lists.guug.de/pipermail/sage-hamburg/2014q2/000233.html "weitere Infos auf der Mailingliste"){target="_blank"},
+    -   [Abstract](https://lists.guug.de/pipermail/sage-hamburg/2014q2/000233.html "weitere Infos auf der Mailingliste"),
         Folien:
-        [lokal](talks/guug-opennebula-140620055437.pdf "Sildes"){target="_blank"},
-        [slideshare.net](talks/guug-opennebula-140620055437.pdf "Slideshare"){target="_blank"}
+        [lokal](talks/guug-opennebula-140620055437.pdf "Sildes"),
+        [slideshare.net](talks/guug-opennebula-140620055437.pdf "Slideshare")
 -   [Juli, August]{.underline}: Sommerpause
 -   [18. September, 19 Uhr]{.underline}
     -   Vortrag Jens Kühnel: *I love logging*
-    -   [Abstract](https://lists.guug.de/pipermail/sage-hamburg/2014q3/000236.html "weitere Infos auf der Mailingliste"){target="_blank"}
+    -   [Abstract](https://lists.guug.de/pipermail/sage-hamburg/2014q3/000236.html "weitere Infos auf der Mailingliste")
         und
-        [Slides](talks/Structured%202Logfile%20Analyse-GUUGHH-2014.pdf "Sildes"){target="_blank"}
+        [Slides](talks/Structured%202Logfile%20Analyse-GUUGHH-2014.pdf "Sildes")
 -   [9. Oktober, 19 Uhr]{.underline}
     -   Vortrag Lenz Grimmer: *Projektdokumentation mit reStructuredText
         und Sphinx: Eine Einführung*
-    -   [Abstract](https://lists.guug.de/pipermail/sage-hamburg/2014q3/000239.html "weitere Infos auf der Mailingliste"){target="_blank"}
-        [Slides](talks/Projektdokumentation_mit_reStructuredText_und_Sphinx-GUUG-HH-2014-10-09.pdf "leider ohne die schönen Animationen von rSt/Hovercraft (siehe Slides)"){target="_blank"}
+    -   [Abstract](https://lists.guug.de/pipermail/sage-hamburg/2014q3/000239.html "weitere Infos auf der Mailingliste")
+        [Slides](talks/Projektdokumentation_mit_reStructuredText_und_Sphinx-GUUG-HH-2014-10-09.pdf "leider ohne die schönen Animationen von rSt/Hovercraft (siehe Slides)")
     -   Ort: Uni HH RZ
     -   Lokation fürs Bier danach: TBD kurzfristig
 -   [18. Dezember]{.underline} (Donnerstag):
-    [Treffen](https://lists.guug.de/pipermail/sage-hamburg/2014q4/000241.html "weitere Infos auf der Mailingliste"){target="_blank"}
+    [Treffen](https://lists.guug.de/pipermail/sage-hamburg/2014q4/000241.html "weitere Infos auf der Mailingliste")
     auf dem Weihnachtsmark 18:30 Uhr, Petrikirche
 
 ### Treffen in 2013
@@ -237,8 +237,8 @@ Uni Hamburg um **19:00 Uhr**.
         von der Mailing-Liste
 -   [14.3.2013]{.underline}, *19:00*
     -   Markus Manzke über
-        [Naxsi](talks/naxsi.pdf "Sildes"){target="_blank"}.
-        [Naxsi](https://www.owasp.org/index.php/OWASP_NAXSI_Project "Naxsi @ owasp.org"){target="_blank"}
+        [Naxsi](talks/naxsi.pdf "Sildes").
+        [Naxsi](https://www.owasp.org/index.php/OWASP_NAXSI_Project "Naxsi @ owasp.org")
         ist einfach gesprochen das mod_security für den Webserver nginx.
     -   Gemeinschaftsveranstaltung mit dem [OWASP-Stammtisch
         Hamburg](http://owasp.de/hamburg/ "_blank")
@@ -276,20 +276,20 @@ Uni Hamburg um **19:00 Uhr**.
         ([Abstract](http://lists.guug.de/pipermail/sage-hamburg/2012q1/000167.html ".. und Bio von der Mailingliste"))
 -   [16.2.2012]{.underline}, *19:15*
     -   Erkan Yanar -- [LXC: Der Weg MySQL zu
-        virtualisieren?](talks/LXC-Techtalk.pdf "Slides"){target="_blank"},
+        virtualisieren?](talks/LXC-Techtalk.pdf "Slides"),
         ([Abstract](http://lists.guug.de/pipermail/sage-hamburg/2012q1/000169.html ".. und Bio von der Mailingliste"))
 -   [22.3.2012]{.underline}, *19:30*
     -   Treffen in der
-        [Klimperkiste](http://www.klimperkiste.com/page/Anfahrt.php "Anfahrt"){target="_blank"}
+        [Klimperkiste](http://www.klimperkiste.com/page/Anfahrt.php "Anfahrt")
     -   ~~Alexander Koderman *Thema: BSI Grundschutz/ISMS mit verinice*,
         Details folgen. Event findet bei Lehmanns statt~~
 -   [19.4.2012]{.underline}
     -   Christian Berendt (B1 Systems): [OpenStack in der
-        Praxis](talks/openstack-presentation.pdf "Slides"){target="_blank"},
+        Praxis](talks/openstack-presentation.pdf "Slides"),
         ([Abstract](http://lists.guug.de/pipermail/sage-hamburg/2012q2/000175.html ".. und Bio von der Mailingliste"))
 -   [31.5.2012]{.underline} (\<\-- Achtung, Terminänderung), *19:00*
     -   Björn-C. Bösch über [Einheitliches Austauschformat verschiedener
-        IDS](talks/BCBoesch-IDS-Parametrisierung.pdf "Slides"){target="_blank"}
+        IDS](talks/BCBoesch-IDS-Parametrisierung.pdf "Slides")
         ([Abstract](http://lists.guug.de/pipermail/sage-hamburg/2012q2/000180.html))
     -   Lokation:
         [Attraktor](http://http://wiki.attraktor.org/Main_Page) (s.
@@ -298,24 +298,24 @@ Uni Hamburg um **19:00 Uhr**.
 -   [9.8.2012]{.underline}:
     -   Wolfgang Stief - [Über die besonderen Anforderungen beim Sammeln
         historischer
-        Großrechner](talks/datarena.pdf "Slides"){target="_blank"}, alle
+        Großrechner](talks/datarena.pdf "Slides"), alle
         gezeigten
-        [Bilder](talks/bilder-craycyber/index.html "Bilder"){target="_blank"}
+        [Bilder](talks/bilder-craycyber/index.html "Bilder")
     -   [Abstract](http://lists.guug.de/pipermail/sage-hamburg/2012q3/000184.html)
         von der Mailling-Liste
 -   [13.9.2012]{.underline}:
     -   Stefan Neufeind - [Systemmanagementtrio: Zentrale Verwaltung mit
         facter, puppet und
-        augeas](talks/GUUG_Hamburg_2012_09_puppet.pdf "Slides"){target="_blank"},
-        ([Abstract](http://lists.guug.de/pipermail/sage-hamburg/2012q3/000188.html "Kurzzusammenfassung von der Mailingliste"){target="_blank"})
+        augeas](talks/GUUG_Hamburg_2012_09_puppet.pdf "Slides"),
+        ([Abstract](http://lists.guug.de/pipermail/sage-hamburg/2012q3/000188.html "Kurzzusammenfassung von der Mailingliste"))
 -   [11.10.2012]{.underline}:
     -   Ricardo Bartels - [Icinga - Open Source
-        Monitoring](talks/icinga_guug_hamburg_11-2012.pdf "Slides"){target="_blank"},
-        ([Abstract](http://lists.guug.de/pipermail/sage-hamburg/2012q4/000190.html "Kurzzusammenfassung von der Mailingliste"){target="_blank"})
+        Monitoring](talks/icinga_guug_hamburg_11-2012.pdf "Slides"),
+        ([Abstract](http://lists.guug.de/pipermail/sage-hamburg/2012q4/000190.html "Kurzzusammenfassung von der Mailingliste"))
 -   [15.11.2012]{.underline}:
     -   Alexander Kodermann - *ISO 2700x und IT-Grundschutz mit dem
         OpenSource-Tool \"verinice\"* mit Demos,
-        ([Abstract](http://lists.guug.de/pipermail/sage-hamburg/2012q4/000194.html "Kurzzusammenfassung von der Mailingliste"){target="_blank"})
+        ([Abstract](http://lists.guug.de/pipermail/sage-hamburg/2012q4/000194.html "Kurzzusammenfassung von der Mailingliste"))
 
 ### Treffen in 2011
 
