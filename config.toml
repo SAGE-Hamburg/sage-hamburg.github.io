@@ -7,9 +7,11 @@ googleAnalytics = ""
 
 [params]
     author = "Lenz Grimmer"
-    description = "SAGE Hamburg"
+    # ist riiiesig:
+    #description = "SAGE Hamburg"
+    description = ""
     githubUsername = "#"
-    accent = "lightgreen"
+    accent = "lightblue"
     showBorder = false
     backgroundColor = "white"
     # font = "Raleway" # should match the name on Google Fonts!
@@ -22,10 +24,11 @@ googleAnalytics = ""
     name = "Home"
     weight = 1
 
-[[menu.main]]
-    url = "/about/"
-    name = "Über uns"
-    weight = 2
+# "uns" gibt es noch nicht
+#[[menu.main]]
+#    url = "/about/"
+#    name = "Über uns"
+#    weight = 2
 
 [[menu.main]]
     url = "/aktuelles/"
