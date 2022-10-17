@@ -7,7 +7,7 @@ googleAnalytics = ""
 [params]
     # siehe https://github.com/stevenengler/no-js-hugo-theme/blob/master/exampleSite/config.toml
     themeStyleSwitcher = true # default false
-    footerText = "Source: https://github.com/sage-hamburg/ . &nbsp;Made with Hugo + [no-js-hugo-theme](https://github.com/stevenengler/no-js-hugo-theme/blob/master/exampleSite/config.toml)"
+    footerText = "Source: [github.com/sage-hamburg](https://github.com/SAGE-Hamburg/sage-hamburg.github.io) . &nbsp;Made with Hugo + [no-js-hugo-theme](https://github.com/stevenengler/no-js-hugo-theme/blob/master/exampleSite/config.toml)"
     tocWordThreshold = 1000
 
 
