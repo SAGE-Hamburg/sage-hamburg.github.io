@@ -1,15 +1,15 @@
 baseURL = "https://sage-hamburg.github.io/"
 languageCode = "de-de"
-title = "SAGE Hamburg"
+# ist riiiesig:
+#title = "SAGE Hamburg"
+title = ""
 theme = "minimal"
 # disqusShortname = "username" # delete this to disable disqus comments
 googleAnalytics = ""
 
 [params]
     author = "Lenz Grimmer"
-    # ist riiiesig:
-    #description = "SAGE Hamburg"
-    description = ""
+    description = "SAGE Hamburg"
     githubUsername = "#"
     accent = "lightblue"
     showBorder = false
@@ -33,12 +33,12 @@ googleAnalytics = ""
 [[menu.main]]
     url = "/aktuelles/"
     name = "Aktuelles"
-    weight = 3
+    weight = 1
 
 [[menu.main]]
     url = "/historisch/"
     name = "Historisches"
-    weight = 3
+    weight = 1
 
 
 # Social icons to be shown on the right-hand side of the navigation bar.
