@@ -1,23 +1,25 @@
 baseURL = "https://sage-hamburg.github.io/"
 languageCode = "de-de"
-# ist riiiesig:
-#title = "SAGE Hamburg"
-title = ""
-theme = "minimal"
-# disqusShortname = "username" # delete this to disable disqus comments
+title = "SAGE Hamburg"
+theme = "no-js-hugo-theme"
 googleAnalytics = ""
 
 [params]
-    author = "Lenz Grimmer"
-    description = "SAGE Hamburg"
-    githubUsername = "#"
-    accent = "lightblue"
-    showBorder = false
-    backgroundColor = "white"
-    # font = "Raleway" # should match the name on Google Fonts!
-    highlight = true
-    highlightStyle = "default"
-    highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
+    # siehe https://github.com/stevenengler/no-js-hugo-theme/blob/master/exampleSite/config.toml
+    themeStyleSwitcher = true # default false
+    footerText = "Source: [github.com/sage-hamburg](https://github.com/SAGE-Hamburg/sage-hamburg.github.io) . &nbsp;Made with Hugo + [no-js-hugo-theme](https://github.com/stevenengler/no-js-hugo-theme)"
+    tocWordThreshold = 1000
+
+
+
+[markup]
+  [markup.highlight]
+    codeFences = true
+    noClasses = false
+
+  [markup.tableOfContents]
+    startLevel = 1
+    endLevel = 6
 
 [[menu.main]]
     url = "/"
@@ -33,20 +35,22 @@ googleAnalytics = ""
 [[menu.main]]
     url = "/aktuelles/"
     name = "Aktuelles"
-    weight = 1
+    weight = 2
 
 [[menu.main]]
     url = "/historisch/"
     name = "Historisches"
-    weight = 1
+    weight = 3
 
 
 # Social icons to be shown on the right-hand side of the navigation bar.
 # The "name" field should match the name of the icon in Font Awesome.
 # The list of available icons can be found at http://fontawesome.io/icons.
 
+# Das ist aus dem alten Theme... wäre aber ganz schön inkl. meetup zu haben
+
 [[menu.icon]]
-    url = "mailto:me@example.com"
+    url = "mailto:hamburg@guug.de"
     name = "fas fa-envelope"
     weight = 1
 
