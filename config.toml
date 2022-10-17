@@ -1,4 +1,4 @@
-baseURL = "http://sage-hamburg.github.io/"
+baseURL = "https://sage-hamburg.github.io/"
 languageCode = "de-de"
 title = "SAGE Hamburg"
 theme = "minimal"
@@ -7,7 +7,8 @@ googleAnalytics = ""
 
 [params]
     author = "Lenz Grimmer"
-    description = "SAGE Hamburg"
+    # Der Titel lugt halb davor bei mir, alos entferne ich den lieber
+    description = ""
     githubUsername = "#"
     accent = "red"
     showBorder = true
@@ -28,7 +29,7 @@ googleAnalytics = ""
     weight = 2
 
 [[menu.main]]
-    url = "/blog/"
+    url = "/aktuelles/"
     name = "Aktuelles"
     weight = 3
 
