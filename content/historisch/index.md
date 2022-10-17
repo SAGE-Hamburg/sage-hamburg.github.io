@@ -78,16 +78,13 @@ Mailing-Liste der GUUG für allgemeine technische Themen ist die der
 
 #### [Wegweiser/Anreiseinfos:]{#weg}
 
--   Seminarraum 304, Uni Hamburg RZ: [Schlüterstr.
-    70](https://maps.google.com/maps?f=q&hl=en&q=hamburg,++schlueterstr.+70,+germany&t=h&om=1&ll=53.569861,9.986293&spn=0.010806,0.02296),
+-   Seminarraum 304, Uni Hamburg RZ: [Schlüterstr.  70](https://maps.google.com/maps?f=q&hl=en&q=hamburg,++schlueterstr.+70,+germany&t=h&om=1&ll=53.569861,9.986293&spn=0.010806,0.02296),
     GPS ([kmz](guug-uni.kmz)): N: 53,5696 Grad / O: 9,9865 Grad.
     [HVV](http://www.geofox.de/base/welcome.jsp?destType=A&destName=Schlueterstrasse%2070&destRegion=Hamburg&departureOrArrival=0&startTime=19%3A15)
 
-Die
-[Mailing-Liste](https://lists.guug.de/pipermail/sage-hamburg/ "einsehbares Archiv")
+Die [Mailing-Liste](https://lists.guug.de/pipermail/sage-hamburg/ "einsehbares Archiv")
 gibt genauere Infos über das Wann, Wo und Was . Wer auf dem Laufenden
-bleiben will, sollte sich dort eintragen. Für unsere Planung ist es
-hilfreich, kurz per E-Mail
+bleiben will, sollte sich dort eintragen. Für unsere Planung ist es hilfreich, kurz per E-Mail
 [E-Mail](mailto:hamburg@guug.de?subject=GUUG-Treffen%20naechsten%20%20%20Donnerstag)
 „Bescheid" zu sagen, damit wir entsprechend Platz allozieren können.
 Üblicherweise treffen wir uns im Seminarraum 304 des Rechenzentrums der
@@ -97,8 +94,7 @@ Uni Hamburg um **19:00 Uhr**.
 
 ### Treffen in 2019
 
--   [9.5.]{.underline} Dirk Wetter: *Container Security \-- Technik gut,
-    Umsetzung leider manchmal nicht so*
+-   [9.5.]{.underline} Dirk Wetter: *Container Security \-- Technik gut, Umsetzung leider manchmal nicht so*
     ([Abstract](https://lists.guug.de/pipermail/sage-hamburg/2019q2/000305.html "weitere Infos auf der Mailingliste"),
     [Slides](talks/Dirk_Wetter_-_Docker_Top10-sage@guughh.pdf))
 -   [6.6.]{.underline} Stefan Kelm: *CyberChef* \-- Demo des GCHQ-Tools
@@ -111,7 +107,7 @@ Uni Hamburg um **19:00 Uhr**.
     konfigurieren*
     ([Abstract](https://lists.guug.de/pipermail/sage-hamburg/2019q3/000313.html "weitere Infos auf der Mailingliste"),
     [Slides](talks/jens_link_-_ansible-net-hh.pdf))
--   **28.11.:** Harald König: *Gnuplot*
+-   <u>28.11.:</u> Harald König: *Gnuplot*
 
 [In Planung]{.underline}
 
