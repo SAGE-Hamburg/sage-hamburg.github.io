@@ -6,29 +6,27 @@ draft: false
 
 # Alte SAGE@GUUG-Treffen in Hamburg
 
-Koordination durch [Dirk Wetter (Oliver
-Gerschewski)](mailto:hamburg@guug.de?subject=SAGE-/GUUG%20Hamburg "mail me").
-
+Koordination durch [Dirk Wetter (Oliver Gerschewski)](mailto:hamburg@guug.de?subject=SAGE-/GUUG%20Hamburg "mail me").
  
 
-## Vergangene Treffen und Vorträge
-
 In Hamburg gibt es seit April 2006 Treffen, meistens mit Vorträgen.
+
+## Generelles
 
 Alle Vorträge sind frei und kostenlos, keine Werbeveranstaltungen in
 irgendeiner Form für irgendein Produkt oder Dienstleistungen. Die Slides
 stehen i.d.R. kurz nach den Vorträgen hier zum Download bereit.
 
 Nach den Vorträgen treffen wir uns zur sozialen Nachbereitung in einem
-\"Etabblissement um die Ecke\".
+\"Etablissement um die Ecke\".
 
-**Vorschläge zu Vortragen können wir immer gebrauchen, siehe unten \--
+Vorschläge zu Vortragenden mit Themen können wir immer gebrauchen, siehe unten \--
 oder einfach eine Mail an
-[uns](mailto:hamburg@guug.de?subject=Vorschlag%20fuer%20bei%20SAGE-/GUUG%20Hamburg "mail me")**.
+[uns](mailto:hamburg@guug.de?subject=Vorschlag%20fuer%20bei%20SAGE-/GUUG%20Hamburg "mail me").
 
  
 
-## Vorträge, Positionierung:
+## Themen
 
 Die GUUG -- 2014 wurde sie 30 Jahre alt -- hat es sich auf die [Fahnen
 geschrieben](https://guug.de/), offene Systeme zu unterstützen. Sie
@@ -62,35 +60,34 @@ Netzwerkteil unserer Treffen.
 
  
 
-## [Mailing-Liste]{#ml}
+## Mailing-Liste
 
-Wer Kontakt zu den Hamburger Teilnehmern am GUUG-Treffen sucht oder über
-Termine und sonstigen Aktionen in Hamburg informiert sein möchte, sollte
-sich und kann sich gerne auf der
-[sage-hamburg](https://lists.guug.de/mailman/listinfo/sage-hamburg/)-Mailing-Liste
-eintragen. Keine Angst, es gibt nicht viel Verkehr und keine Spam. Die
-Mailing-Liste der GUUG für allgemeine technische Themen ist die der
+Die [Mailing-Liste](https://lists.guug.de/pipermail/sage-hamburg/ "einsehbares Archiv")
+gibt genauere Infos über das Wann, Wo und Was. Wer auf dem Laufenden
+bleiben will, sollte sich dort eintragen. Keine Angst, es gibt nicht viel Verkehr und keine Spam.
+Die Mailing-Liste der GUUG für allgemeine technische Themen ist die der
 [SAGE](https://lists.guug.de/mailman/listinfo/sage/).
 
- 
+Für unsere Planung ist es hilfreich, kurz per E-Mail
+[E-Mail](mailto:hamburg@guug.de?subject=GUUG-Treffen%20naechsten%20%20%20Donnerstag)
+„Bescheid" zu sagen, damit wir entsprechend Platz allozieren können.
 
-## Termine
 
-#### [Wegweiser/Anreiseinfos:]{#weg}
+Üblicherweise treffen wir uns im Seminarraum 304 des Rechenzentrums der
+Uni Hamburg um **19:00 Uhr**.
+
+#### Wegweiser/Anreiseinfos
 
 -   Seminarraum 304, Uni Hamburg RZ: [Schlüterstr.  70](https://maps.google.com/maps?f=q&hl=en&q=hamburg,++schlueterstr.+70,+germany&t=h&om=1&ll=53.569861,9.986293&spn=0.010806,0.02296),
     GPS ([kmz](guug-uni.kmz)): N: 53,5696 Grad / O: 9,9865 Grad.
     [HVV](http://www.geofox.de/base/welcome.jsp?destType=A&destName=Schlueterstrasse%2070&destRegion=Hamburg&departureOrArrival=0&startTime=19%3A15)
 
-Die [Mailing-Liste](https://lists.guug.de/pipermail/sage-hamburg/ "einsehbares Archiv")
-gibt genauere Infos über das Wann, Wo und Was . Wer auf dem Laufenden
-bleiben will, sollte sich dort eintragen. Für unsere Planung ist es hilfreich, kurz per E-Mail
-[E-Mail](mailto:hamburg@guug.de?subject=GUUG-Treffen%20naechsten%20%20%20Donnerstag)
-„Bescheid" zu sagen, damit wir entsprechend Platz allozieren können.
-Üblicherweise treffen wir uns im Seminarraum 304 des Rechenzentrums der
-Uni Hamburg um **19:00 Uhr**.
-
  
+ 
+
+## Vergangene Treffen und Vorträge
+
+
 
 ### Treffen in 2019
 
@@ -441,4 +438,3 @@ Uni Hamburg um **19:00 Uhr**.
 -   [09.11.2006]: Vortrag über *Heartbeat 2.x - N-Node Clustering und Data Center Automation* von *Lars Marowsky-Bree (SUSE Labs, R&D)*, danach wie üblich Treffen
 -   [15.12.2006,19 Uhr]: (Freitag!): *Gemütlicher Ausklang des Jahres (a.k.a. Weihnachtsfeier)*: Spiel \"IT-Tabu\", siehe Ankündigung. Üblicher Ort
 
-\
