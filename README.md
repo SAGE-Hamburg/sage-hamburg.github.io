@@ -1,3 +1,3 @@
-Dies ist das Backend zur [SAGE Hamburg Webseite sage-hamburg.github.io](sage-hamburg.github.io)
+Dies ist das Backend zur [SAGE Hamburg Webseite](https://sage-hamburg.github.io). Dort findest du weitere Informationen
 
-Wenn du dich beteiligen möchtest, stell gerne einen PR ein
+PRs sind gerne gesehen, Beteiligungen auch.
