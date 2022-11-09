@@ -18,12 +18,6 @@ draft: false
 
 ----
 
-#### Oktober 2022 ####
-
-TBA
-
-----
-
 Sommerpause
 
 ----
