@@ -5,6 +5,14 @@ draft: false
 ---
 
 <br />
+----
+
+#### Dezember 2022 ####
+
+- Titel: Dateisynchronisierung via Syncthing
+- Sprecher: Bernd Broermann
+- Ort: Online, Senfcall (URL: TBA)
+- Zeit: 8.12..2022, Start: 19 Uhr
 
 ----
 
