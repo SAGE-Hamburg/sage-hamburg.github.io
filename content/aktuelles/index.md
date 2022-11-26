@@ -21,8 +21,9 @@ draft: false
 - Thema: Führung durch das Deutsche Klimarechenzentrum
 - Ort: DKRZ, Bundesstraße
 - Zeit: 23.11.2022, Start: 17 Uhr
-- Anmeldung erforderlich (wo wird in Kürze nachgereicht)
+- Anmeldung erforderlich
 - Das Bier danach ab 19:30
+- [Slides](slides/DKRZ_2022_de.pdf). Während des Vortrags [gezeigte Visualisierungen](https://www.dkrz.de/de/kommunikation/galerie/Vis/klimaszenarien), [mehr](https://www.dkrz.de/de/kommunikation/klimasimulationen/cmip6-de)
 
 ----
 
