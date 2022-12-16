@@ -7,7 +7,7 @@ googleAnalytics = ""
 [params]
     # siehe https://github.com/stevenengler/no-js-hugo-theme/blob/master/exampleSite/config.toml
     themeStyleSwitcher = true # default false
-    footerText = "Source: [github.com/sage-hamburg](https://github.com/SAGE-Hamburg/sage-hamburg.github.io) . &nbsp;Made with Hugo + [no-js-hugo-theme](https://github.com/stevenengler/no-js-hugo-theme)"
+    footerText = "Source: [github.com/sage-hamburg](https://github.com/SAGE-Hamburg/sage-hamburg.github.io) | Made with [Hugo](https://gohugo.io/) + [no-js-hugo-theme](https://github.com/stevenengler/no-js-hugo-theme)"
     tocWordThreshold = 1000
 
 
@@ -41,6 +41,11 @@ googleAnalytics = ""
     url = "/historisch/"
     name = "Historisches"
     weight = 3
+
+[[menu.main]]
+    url = "/kontakt/"
+    name = "Kontakt"
+    weight = 4
 
 
 # Social icons to be shown on the right-hand side of the navigation bar.
