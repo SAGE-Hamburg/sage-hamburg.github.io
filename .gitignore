@@ -12,5 +12,6 @@
 *.rej
 *.swo
 *.swp
+public
 thumbs.db
 todo.md
