@@ -5,6 +5,17 @@ draft: false
 ---
 
 <br />
+
+----
+
+#### Januar 2023 ####
+
+- Titel: Was über Patterns bei Ansible
+- Sprecher: Henning Rohde
+- Ort: Online, Senfcall (URL: TBA)
+- Zeit: 19.1..2023, Start: 19 Uhr
+
+
 ----
 
 #### Dezember 2022 ####
