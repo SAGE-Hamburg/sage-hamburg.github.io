@@ -1,6 +1,6 @@
 ---
 title: "Aktuelles / Treffen"
-description: "Diesjährige Treffen"
+description: "Letzte Treffen"
 draft: false
 ---
 
@@ -18,12 +18,30 @@ draft: false
 
 ----
 
+#### April 2023 ####
+
+- Titel: IPv6 NAT wider jegliche Vernunft oder: was du schon immer über IPv6 NAT wissen wolltest und nie zu fragen gewagt hast
+- Sprecher: Hellmuth Michaelis
+- Ort: Bundesstraße 53, Raum 22/23. Zeitgleich ist online-Beteiligung möglich: https://lecture.senfcall.de/dir-5rg-xlj-rzl
+- Zeit: 26.4.2023, Start: 18:30 Uhr
+
+----
+
+#### Januar 2023 ####
+
+- Titel: Patterns & Anti-Patterns bei der (Infrastruktur-)Automatisierung mit Ansible
+- Sprecher: Henning Rohde
+- Ort: Online, Senfcall
+- Zeit: 19.1.2023, Start: 19 Uhr
+
+----
+
 #### Dezember 2022 ####
 
 - Titel: Dateisynchronisierung via Syncthing
 - Sprecher: Bernd Broermann
-- Ort: Online, Senfcall (URL: TBA)
-- Zeit: 8.12..2022, Start: 19 Uhr
+- Ort: Online, Senfcall
+- Zeit: 8.12.2022, Start: 19 Uhr
 
 ----
 
