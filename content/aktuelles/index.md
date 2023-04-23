@@ -8,16 +8,6 @@ draft: false
 
 ----
 
-#### Januar 2023 ####
-
-- Titel: Was über Patterns bei Ansible
-- Sprecher: Henning Rohde
-- Ort: Online, Senfcall (URL: TBA)
-- Zeit: 19.1..2023, Start: 19 Uhr
-
-
-----
-
 #### April 2023 ####
 
 - Titel: IPv6 NAT wider jegliche Vernunft oder: was du schon immer über IPv6 NAT wissen wolltest und nie zu fragen gewagt hast
