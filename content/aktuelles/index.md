@@ -12,8 +12,9 @@ draft: false
 
 - Titel: IPv6 NAT wider jegliche Vernunft oder: was du schon immer über IPv6 NAT wissen wolltest und nie zu fragen gewagt hast
 - Sprecher: Hellmuth Michaelis
-- Ort: Bundesstraße 53, Raum 22/23. Zeitgleich ist online-Beteiligung möglich: https://lecture.senfcall.de/dir-5rg-xlj-rzl
+- Ort: Bundesstraße 53, Raum 22/23. Zeitgleich ist Online eine Beteiligung möglich: https://lecture.senfcall.de/dir-5rg-xlj-rzl
 - Zeit: 26.4.2023, Start: 18:30 Uhr
+- [Slides](slides/IPv6%20NAT%2013.04.2023.pdf).
 
 ----
 
