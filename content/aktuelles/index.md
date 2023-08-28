@@ -6,6 +6,27 @@ draft: false
 
 <br />
 
+
+----
+
+#### September 2023 ####
+
+- Thema: Führung durch das DESY
+- Ort: DESY, Notkestraße
+- Treffen: 14.9.2023, Start: 18 Uhr
+- Anmeldung erforderlich
+- Das Bier danach: TBD
+- Ankündung/Meetup: https://lists.guug.de/pipermail/sage-hamburg/2023q3/000367.html / https://www.meetup.com/sysadmin-group-hamburg-sage/events/295148080/
+
+----
+
+#### Juli 2023 ####
+
+- Thema: Beering + Organisation
+- Ort: Doris Diner
+- Zeit: 26.7.2022, 18:30
+- Ankündigung/Meetup: https://lists.guug.de/pipermail/sage-hamburg/2023q3/000362.html / https://www.meetup.com/sysadmin-group-hamburg-sage/events/294718093/
+
 ----
 
 #### April 2023 ####
