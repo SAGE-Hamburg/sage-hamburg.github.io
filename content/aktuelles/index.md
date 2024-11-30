@@ -15,9 +15,7 @@ draft: false
 - Treffen: 12.12.2024, Start: 18:30 Uhr
 - Einlass ab 18h, wichtige Details: https://wiki.hamburg.ccc.de/club:z9:start
 - Das Bier danach: TBD
-<!--
-- Ankündung: https://lists.guug.de/pipermail/sage-hamburg/2023q3/000367.html
--->
+- Ankündung: https://lists.guug.de/pipermail/sage-hamburg/2024q4/000373.html
 
 ----
 
