@@ -1,6 +1,82 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Über uns on SAGE Hamburg</title><link>https://sage-hamburg.github.io/</link><description>Recent content in Über uns on SAGE Hamburg</description><generator>Hugo -- gohugo.io</generator><language>de-de</language><atom:link href="https://sage-hamburg.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Aktuelles / Treffen</title><link>https://sage-hamburg.github.io/aktuelles/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sage-hamburg.github.io/aktuelles/</guid><description>September 2023 Thema: Führung durch das DESY Ort: DESY, Notkestraße Treffen: 14.9.2023, Start: 18 Uhr Anmeldung erforderlich Das Bier danach: TBD Ankündung/Meetup: https://lists.guug.de/pipermail/sage-hamburg/2023q3/000367.html / https://www.meetup.com/sysadmin-group-hamburg-sage/events/295148080/ Juli 2023 Thema: Beering + Organisation Ort: Doris Diner Zeit: 26.7.2022, 18:30 Ankündigung/Meetup: https://lists.guug.de/pipermail/sage-hamburg/2023q3/000362.html / https://www.meetup.com/sysadmin-group-hamburg-sage/events/294718093/ April 2023 Titel: IPv6 NAT wider jegliche Vernunft oder: was du schon immer über IPv6 NAT wissen wolltest und nie zu fragen gewagt hast Sprecher: Hellmuth Michaelis Ort: Bundesstraße 53, Raum 22/23.</description></item><item><title>Historisches</title><link>https://sage-hamburg.github.io/historisch/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sage-hamburg.github.io/historisch/</guid><description>Alte SAGE@GUUG-Treffen in Hamburg Koordination durch Dirk Wetter (Oliver Gerschewski). In Hamburg gibt es seit April 2006 Treffen, meistens mit Vorträgen.
-Generelles Alle Vorträge sind frei und kostenlos, keine Werbeveranstaltungen in irgendeiner Form für irgendein Produkt oder Dienstleistungen. Die Slides stehen i.d.R. kurz nach den Vorträgen hier zum Download bereit.
-Nach den Vorträgen treffen wir uns zur sozialen Nachbereitung in einem &amp;quot;Etablissement um die Ecke&amp;quot;.
-Vorschläge zu Vortragenden mit Themen können wir immer gebrauchen, siehe unten -- oder einfach eine Mail an uns.</description></item><item><title>Kontakt</title><link>https://sage-hamburg.github.io/kontakt/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sage-hamburg.github.io/kontakt/</guid><description>Es gibt diverse Möglichkeiten, mit uns in Kontakt zu treten und über unsere Aktivitäten auf dem Laufenden zu bleiben:
-Mailingliste Die Mailingliste SAGE-Hamburg wird dankenswerterweise weiterhin von der GUUG gehostet. Alle Mittglieder der Liste können per E-Mail unter der Mailadresse sage-hamburg@guug.de erreicht werden. Im Archiv findest Du ältere Nachrichten.
-Mastodon Wir sind auch im Fediverse vertreten! Folge dem Mastodon-Account @sage_hamburg@social.tchncs.de um über anstehende Termine und sonstige Ankündigungen informiert zu bleiben. Wir freuen uns über Boosts!</description></item><item><title>Über uns</title><link>https://sage-hamburg.github.io/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sage-hamburg.github.io/about/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Über uns on SAGE Hamburg</title><link>https://sage-hamburg.github.io/</link><description>Recent content in Über uns on SAGE Hamburg</description><generator>Hugo</generator><language>de-de</language><atom:link href="https://sage-hamburg.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Aktuelles / Treffen</title><link>https://sage-hamburg.github.io/aktuelles/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sage-hamburg.github.io/aktuelles/</guid><description>&lt;!-- raw HTML omitted -->
+&lt;hr>
+&lt;h4 id="dezemebr-2024">Dezemebr 2024&lt;/h4>
+&lt;ul>
+&lt;li>Ort: Ort: Zeiseweg 9, Hamburg (CCC Hamburg)&lt;/li>
+&lt;li>Treffen: 12.12.2024, Start: 18:30 Uhr&lt;/li>
+&lt;li>Einlass ab 18h, wichtige Details: &lt;a href="https://wiki.hamburg.ccc.de/club:z9:start">https://wiki.hamburg.ccc.de/club:z9:start&lt;/a>&lt;/li>
+&lt;li>Das Bier danach: TBD&lt;/li>
+&lt;/ul>
+&lt;!-- raw HTML omitted -->
+&lt;!-- raw HTML omitted -->
+&lt;hr>
+&lt;h4 id="september-2023">September 2023&lt;/h4>
+&lt;ul>
+&lt;li>Thema: Führung durch das DESY&lt;/li>
+&lt;li>Ort: DESY, Notkestraße&lt;/li>
+&lt;li>Treffen: 14.9.2023, Start: 18 Uhr&lt;/li>
+&lt;li>Anmeldung erforderlich&lt;/li>
+&lt;li>Das Bier danach: TBD&lt;/li>
+&lt;li>Ankündung/Meetup: &lt;a href="https://lists.guug.de/pipermail/sage-hamburg/2023q3/000367.html">https://lists.guug.de/pipermail/sage-hamburg/2023q3/000367.html&lt;/a> / &lt;a href="https://www.meetup.com/sysadmin-group-hamburg-sage/events/295148080/">https://www.meetup.com/sysadmin-group-hamburg-sage/events/295148080/&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h4 id="juli-2023">Juli 2023&lt;/h4>
+&lt;ul>
+&lt;li>Thema: Beering + Organisation&lt;/li>
+&lt;li>Ort: Doris Diner&lt;/li>
+&lt;li>Zeit: 26.7.2022, 18:30&lt;/li>
+&lt;li>Ankündigung/Meetup: &lt;a href="https://lists.guug.de/pipermail/sage-hamburg/2023q3/000362.html">https://lists.guug.de/pipermail/sage-hamburg/2023q3/000362.html&lt;/a> / &lt;a href="https://www.meetup.com/sysadmin-group-hamburg-sage/events/294718093/">https://www.meetup.com/sysadmin-group-hamburg-sage/events/294718093/&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h4 id="april-2023">April 2023&lt;/h4>
+&lt;ul>
+&lt;li>Titel: IPv6 NAT wider jegliche Vernunft oder: was du schon immer über IPv6 NAT wissen wolltest und nie zu fragen gewagt hast&lt;/li>
+&lt;li>Sprecher: Hellmuth Michaelis&lt;/li>
+&lt;li>Ort: Bundesstraße 53, Raum 22/23. Zeitgleich ist Online eine Beteiligung möglich: &lt;a href="https://lecture.senfcall.de/dir-5rg-xlj-rzl">https://lecture.senfcall.de/dir-5rg-xlj-rzl&lt;/a>&lt;/li>
+&lt;li>Zeit: 26.4.2023, Start: 18:30 Uhr&lt;/li>
+&lt;li>&lt;a href="slides/IPv6%20NAT%2013.04.2023.pdf">Slides&lt;/a>.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h4 id="januar-2023">Januar 2023&lt;/h4>
+&lt;ul>
+&lt;li>Titel: Patterns &amp;amp; Anti-Patterns bei der (Infrastruktur-)Automatisierung mit Ansible&lt;/li>
+&lt;li>Sprecher: Henning Rohde&lt;/li>
+&lt;li>Ort: Online, Senfcall&lt;/li>
+&lt;li>Zeit: 19.1.2023, Start: 19 Uhr&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h4 id="dezember-2022">Dezember 2022&lt;/h4>
+&lt;ul>
+&lt;li>Titel: Dateisynchronisierung via Syncthing&lt;/li>
+&lt;li>Sprecher: Bernd Broermann&lt;/li>
+&lt;li>Ort: Online, Senfcall&lt;/li>
+&lt;li>Zeit: 8.12.2022, Start: 19 Uhr&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h4 id="november-2022">November 2022&lt;/h4>
+&lt;ul>
+&lt;li>Thema: Führung durch das Deutsche Klimarechenzentrum&lt;/li>
+&lt;li>Ort: DKRZ, Bundesstraße&lt;/li>
+&lt;li>Zeit: 23.11.2022, Start: 17 Uhr&lt;/li>
+&lt;li>Anmeldung erforderlich&lt;/li>
+&lt;li>Das Bier danach ab 19:30&lt;/li>
+&lt;li>&lt;a href="slides/DKRZ_2022_de.pdf">Slides&lt;/a>. Während des Vortrags &lt;a href="https://www.dkrz.de/de/kommunikation/galerie/Vis/klimaszenarien">gezeigte Visualisierungen&lt;/a>, &lt;a href="https://www.dkrz.de/de/kommunikation/klimasimulationen/cmip6-de">mehr&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;p>Sommerpause&lt;/p></description></item><item><title>Historisches</title><link>https://sage-hamburg.github.io/historisch/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sage-hamburg.github.io/historisch/</guid><description>&lt;h1 id="alte-sageguug-treffen-in-hamburg">Alte SAGE@GUUG-Treffen in Hamburg&lt;/h1>
+&lt;p>Koordination durch &lt;a href="mailto:hamburg@guug.de?subject=SAGE-/GUUG%20Hamburg" title="mail me">Dirk Wetter (Oliver Gerschewski)&lt;/a>.
+ &lt;/p>
+&lt;p>In Hamburg gibt es seit April 2006 Treffen, meistens mit Vorträgen.&lt;/p>
+&lt;h2 id="generelles">Generelles&lt;/h2>
+&lt;p>Alle Vorträge sind frei und kostenlos, keine Werbeveranstaltungen in
+irgendeiner Form für irgendein Produkt oder Dienstleistungen. Die Slides
+stehen i.d.R. kurz nach den Vorträgen hier zum Download bereit.&lt;/p>
+&lt;p>Nach den Vorträgen treffen wir uns zur sozialen Nachbereitung in einem
+&amp;quot;Etablissement um die Ecke&amp;quot;.&lt;/p>
+&lt;p>Vorschläge zu Vortragenden mit Themen können wir immer gebrauchen, siehe unten --
+oder einfach eine Mail an
+&lt;a href="mailto:hamburg@guug.de?subject=Vorschlag%20fuer%20bei%20SAGE-/GUUG%20Hamburg" title="mail me">uns&lt;/a>.&lt;/p></description></item><item><title>Kontakt</title><link>https://sage-hamburg.github.io/kontakt/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sage-hamburg.github.io/kontakt/</guid><description>&lt;p>Es gibt diverse Möglichkeiten, mit uns in Kontakt zu treten und über unsere Aktivitäten auf dem Laufenden zu bleiben:&lt;/p>
+&lt;h4 id="mailingliste">Mailingliste&lt;/h4>
+&lt;p>Die Mailingliste &lt;a href="https://lists.guug.de/cgi-bin/mailman/listinfo/sage-hamburg">SAGE-Hamburg&lt;/a> wird dankenswerterweise weiterhin von der &lt;a href="https://guug.de/">GUUG&lt;/a> gehostet. Alle Mittglieder der Liste können per E-Mail unter der Mailadresse &lt;a href="mailto:sage-hamburg@guug.de">sage-hamburg@guug.de&lt;/a> erreicht werden. Im &lt;a href="https://lists.guug.de/cgi-bin/mailman/listinfo/sage-hamburg">Archiv&lt;/a> findest Du ältere Nachrichten.&lt;/p>
+&lt;h4 id="mastodon">Mastodon&lt;/h4>
+&lt;p>Wir sind auch im Fediverse vertreten! Folge dem Mastodon-Account &lt;a href="https://social.tchncs.de/@sage_hamburg">@sage_hamburg@social.tchncs.de&lt;/a> um über anstehende Termine und sonstige Ankündigungen informiert zu bleiben. Wir freuen uns über Boosts!&lt;/p></description></item><item><title>Über uns</title><link>https://sage-hamburg.github.io/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sage-hamburg.github.io/about/</guid><description/></item></channel></rss>
