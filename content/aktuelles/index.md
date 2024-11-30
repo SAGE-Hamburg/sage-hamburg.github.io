@@ -9,6 +9,18 @@ draft: false
 
 ----
 
+#### Dezemebr 2024 ####
+
+- Ort: Ort: Zeiseweg 9, Hamburg (CCC Hamburg)
+- Treffen: 12.12.2024, Start: 18:30 Uhr
+- Einlass ab 18h, wichtige Details: https://wiki.hamburg.ccc.de/club:z9:start
+- Das Bier danach: TBD
+<!--
+- Ankündung: https://lists.guug.de/pipermail/sage-hamburg/2023q3/000367.html
+-->
+
+----
+
 #### September 2023 ####
 
 - Thema: Führung durch das DESY
