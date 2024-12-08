@@ -11,9 +11,8 @@ draft: false
 
 #### Dezember 2024 ####
 
-- Sprecher: Stefan Bethke, Dirk Wetter
-- Titel: Hamstercage, Hackerscheuche
-- Ort: Ort: Zeiseweg 9, Hamburg (CCC Hamburg)
+- Sprecher: Stefan Bethke: "Pets, not Cattle", Dirk Wetter: "Hackerbremse"
+- Ort: Zeiseweg 9, Hamburg (CCC Hamburg)
 - Treffen: 12.12.2024, Start: 18:30 Uhr
 - Einlass ab 18h, wichtige Details: https://wiki.hamburg.ccc.de/club:z9:start
 - Das Bier danach: TBD
