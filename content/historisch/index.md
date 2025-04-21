@@ -1,13 +1,14 @@
 ---
 title: "Historisches"
-description: "Alte Vorträge / Treffen der sage@guug Hamburg"
+description: "HISTORISCHE Treffen / Vorträge der sage@guug Hamburg bis 2019"
 draft: false
 ---
 
-# Alte SAGE@GUUG-Treffen in Hamburg
+*Dies sind die Daten der alten Webseite. Für neueres siehe [Aktuelles](/aktuelles)*
+
+# SAGE@GUUG-Treffen in Hamburg bis 2019
 
 Koordination durch [Dirk Wetter (Oliver Gerschewski)](mailto:hamburg@guug.de?subject=SAGE-/GUUG%20Hamburg "mail me").
- 
 
 In Hamburg gibt es seit April 2006 Treffen, meistens mit Vorträgen.
 
@@ -28,7 +29,7 @@ oder einfach eine Mail an
 
 ## Themen
 
-Die GUUG -- 2014 wurde sie 30 Jahre alt -- hat es sich auf die [Fahnen
+Die GUUG -- 2014 wurde sie 30 Jahre alt -- hatte es sich auf die [Fahnen
 geschrieben](https://guug.de/), offene Systeme zu unterstützen. Sie
 organisiert einmal im Jahr eine schöne Fachkonferenz, das
 Frühjahrsfachgespräch. Die lokalen Gruppen bilden ein wenig die
@@ -73,7 +74,7 @@ Für unsere Planung ist es hilfreich, kurz per E-Mail
 „Bescheid" zu sagen, damit wir entsprechend Platz allozieren können.
 
 
-Üblicherweise treffen wir uns im Seminarraum 304 des Rechenzentrums der
+Üblicherweise trafen wir uns im Seminarraum 304 des Rechenzentrums der
 Uni Hamburg um **19:00 Uhr**.
 
 #### Wegweiser/Anreiseinfos
